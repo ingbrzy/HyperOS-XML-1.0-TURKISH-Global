@@ -364,17 +364,12 @@ görüntüsü almak için dokunun"</string>
     <string name="screen_editor_btn_save">Kaydet</string>
     <string name="screen_editor_btn_shell_off">Cihaz çerçevesini kaldır</string>
     <string name="screen_editor_btn_shell_on">Cihaz çerçevesi ekle</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Bu ekran görüntüsü silinsin mi?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Bu görüntü silinsin mi?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Bitti</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Kırpılmış ekran görüntülerine cihaz çerçevesi eklenemiyor</string>
     <string name="screen_editor_shell_net_error">Cihaz çerçevesi indirmek için ağa bağlanın</string>
     <string name="screen_editor_shell_res_downloading">Cihaz çerçevesi indiriliyor…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İptal</string>
     <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
     <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>

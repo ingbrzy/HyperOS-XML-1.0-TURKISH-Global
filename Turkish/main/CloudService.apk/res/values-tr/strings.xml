@@ -164,8 +164,6 @@
     <string name="feedback_custom_hint">Burada karşılaştığınız sorunları anlatın. Eğer öneri verirseniz, daha fazla ayrıntı için minnettar olacağız!</string>
     <string name="find_device">Cihazı bul</string>
     <string name="find_device_dspt_provision">Eğer cihazınızı kaybederseniz konumunu bulmak, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>%s&lt;/font> adresine gidebilirsiniz. Bu özelliği dilediğiniz zaman Ayarlar menüsünde açıp kapatabilirsiniz.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">"Cihazı bul'u açarak "<u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Politikamızı</a></u> kabul ediyorsunuz. Onayınızı geri çekmek isterseniz bu özelliği kapatın.</string>
     <string name="find_device_operation_failure_rpc">İşlem RPC hatası nedeniyle tamamlanamadı.</string>
     <string name="find_device_permissions_footer">"Seçtiğiniz izinleri vermek için ''İzin ver'' seçeneğine dokunun."</string>

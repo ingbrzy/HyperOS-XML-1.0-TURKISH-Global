@@ -157,7 +157,6 @@
     <string name="dynamic_weather">Hava durumu</string>
     <string name="early_morning">Sabah</string>
     <string name="edit_city">Şehirleri yönet</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Güncelleniyor…</string>
     <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
     <string name="empty_view_refresh">Tekrar deneyin</string>
@@ -267,7 +266,6 @@
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="hourly_forcast_now">Şimdi</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Şimdi yükle</string>
     <string name="indices_title_chance_of_rain">Yağmur yağma olasılığı</string>
@@ -278,10 +276,7 @@
     <string name="indices_wind_direction_north">K</string>
     <string name="indices_wind_direction_south">G</string>
     <string name="indices_wind_direction_west">B</string>
-    <string name="install_progress">%%%1$s</string>
     <string name="international_details_uv_index_title">UV endeksi</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Konum hizmetlerini aç</string>
     <string name="location_tag">Konum</string>
     <string name="manager_city_option_add_home">Başlangıç sayfasına ekle</string>
@@ -434,7 +429,6 @@
     <string name="share_button">Paylaş</string>
     <string name="share_menu_title">Paylaş</string>
     <string name="share_subject">Paylaş</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Ekran görüntüsü alınamadı</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-saatlik tahmin</string>

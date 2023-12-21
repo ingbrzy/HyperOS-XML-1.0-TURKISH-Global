@@ -134,7 +134,6 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">On saniye ileri sar</string>
     <string name="cast_forward_30">Otuz saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">CANLI</string>
     <string name="cast_mute">Sesi kapat</string>
     <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
@@ -1014,7 +1013,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -1104,7 +1102,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="online_play_start_ready_loading_tip_kb">Yükleniyor %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Yükleniyor %.2f MB/s</string>
     <string name="online_play_title">URL girin</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
     <string name="out_of_memory_background_playback_is_suspended">Yetersiz bellekten dolayı arka planda oynatma duraklatıldı</string>
@@ -1496,7 +1493,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="sns_sign_in">Diğer oturum açma yolları</string>
     <string name="source">"Kaynak: "</string>
     <string name="start_download_tip">Sıraya eklendi. Profil > İndirilenler menüsünde ilerlemeyi kontrol edin.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD Kart</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
     <string name="submit">Gönder</string>

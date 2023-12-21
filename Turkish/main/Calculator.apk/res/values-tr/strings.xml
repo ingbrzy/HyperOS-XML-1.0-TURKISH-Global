@@ -573,7 +573,6 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="unit_data_display_currency_btn">Butan ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botsvana Pulası</string>
     <string name="unit_data_display_currency_byn">Beyaz Rusya rublesi</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanada doları</string>
     <string name="unit_data_display_currency_cdf">Kongo Frangı</string>
     <string name="unit_data_display_currency_chf">İsviçre frangı</string>

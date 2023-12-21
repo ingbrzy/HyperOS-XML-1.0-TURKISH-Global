@@ -968,7 +968,6 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. İzni geri çekebilmek için sip
     <string name="card_main_private_space_summary">İkinci alanı kullanmak, iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Videoları yönet</string>
     <string name="card_main_whatsappclean_title">WhatsApp temizleyici</string>
     <string name="card_main_xspace_action">Oluştur</string>
@@ -1338,7 +1337,6 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="dynamic_performance_optimization_title">Dinamik performans</string>
     <string name="early_morning">Sabah</string>
     <string name="edit_phone_num">SIM telefon numarasını düzenle</string>
-    <string name="ellipsis">…</string>
     <string name="email">E-posta</string>
     <string name="empty" />
     <string name="empty_app">Uygulama yok</string>
@@ -1416,9 +1414,7 @@ Numara istisnalara eklenecek, ancak daha önce engellenen ögeler arama geçmiş
     <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatif</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Anlatım</string>
@@ -2602,7 +2598,6 @@ Cihazınız şimdi %s daha hızlı."</string>
     <string name="menu_text_license_manager">İzinler</string>
     <string name="menu_text_networkassistants">Veri kullanımı</string>
     <string name="menu_text_networkassistants_danger">%s aşıldı</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s kaldı</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2611,7 +2606,6 @@ Cihazınız şimdi %s daha hızlı."</string>
     <string name="menu_text_optimize_manage">Hızı artır</string>
     <string name="menu_text_optimize_manage_1">Hızı arttır</string>
     <string name="menu_text_power_manager">Pil</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">İstisnalardan kaldır</string>
     <string name="menu_white">İstisnalara ekle</string>
     <string name="mi_ime_not_used">Xiaomi tarafından yetkilendirilmiş bir klavye kullanın</string>
@@ -2717,7 +2711,6 @@ Cihazınız şimdi %s daha hızlı."</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -3474,11 +3467,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken aşağıdaki optimizasyonlar gerçekleştirilecek:</string>
     <string name="power_center_hints_scan_danger_result">Pil sorunlarını şimdi çözebilirsiniz</string>
     <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">s</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth özelliğini kapat</string>
     <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
@@ -3783,7 +3771,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="pref_normal_traffic_limit">Tarife limitinizi kullandığınızda</string>
     <string name="pref_open_adjust_traffic">Veri kullanımını her gün operatörünüzün hesaplamalarını kullanarak güncelle</string>
     <string name="pref_operator_not_set">Operatör ayarlanmadı</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Tarife limitinizi aştığınızda</string>
     <string name="pref_package_traffic_settings">Tarife</string>
     <string name="pref_pkg_begin_date">Kullanım periyodu sıfırlama tarihi</string>
@@ -4083,7 +4070,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız Ethernet kablosunu deği
     <string name="privacy_using_record">Ses kaydetme</string>
     <string name="privacyapp_number_masked_text">Bildirim içeriği gizli</string>
     <string name="privacyapp_number_unmasked_text">Bildirim içeriği gizlenebilir</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Medya sunucusu</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Reklam</string>
