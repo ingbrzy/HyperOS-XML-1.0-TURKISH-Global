@@ -474,7 +474,6 @@ Neden: \"%s\""</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Adı</string>
     <string name="gallery">Galeri</string>
     <string name="ghostData_company">Şirket</string>
@@ -608,7 +607,6 @@ Neden: \"%s\""</string>
     <string name="menu_sync_remove">Senkronize edilen grubu kaldır</string>
     <string name="midnight">Gece</string>
     <string name="miprofile_account_type">Kişi kartları</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profili düzenle</string>
     <string name="miprofile_name">Profilim</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -774,7 +772,6 @@ Nasıl izin verilir
     <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu uygulama ile kullanabilmesi ve kişilerinizi yönetmesi için bu uygulamanın kişilerinize erişmesine ve onları düzenlemesine, ayrıca cihaz bilgilerine erişmesine izin verin.</string>
     <string name="permission_retry_setting">Ayarlar</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider"> ｜ </string>
     <string name="phone_number_too_long_toast">Numara çok uzun</string>
     <string name="phone_primary">Birincil</string>
     <string name="photoPickerNotFoundText">Cihazda kullanılabilir resim yok.</string>
@@ -1006,7 +1003,6 @@ Başlamak için ekranınızın altındaki ''Birleştir'' simgesine dokunun."</st
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Grup üyesi yok</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Şirketler</string>
     <string name="smart_group_company_unavailable">Şirket bilgisi yok</string>
     <string name="smart_group_frequency_1">Geçen ay içerisinde</string>
@@ -1048,7 +1044,6 @@ Başlamak için ekranınızın altındaki ''Birleştir'' simgesine dokunun."</st
     <string name="starred_contacts">Favoriler</string>
     <string name="status_available">Uygun</string>
     <string name="status_away">Dışarıda</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Meşgul</string>
     <string name="strequentList">Favoriler</string>
     <string name="success_message_import_from_account">Kişi içe aktarıldı</string>
