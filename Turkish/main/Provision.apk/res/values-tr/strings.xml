@@ -221,6 +221,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="input_method_setting">Klavye seçin</string>
     <string name="install_preinstall_app">Uygulamalar yükleniyor…</string>
     <string name="interconnection_communication_introduction">Xiaomi İnternet İletişim Hizmetleri, diğer Xiaomi cihazlarını keşfetmenizi, onlara bağlanmanızı ve onlarla iletişime geçmenizi sağlar.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Ara Bağlantı</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Xiaomi Ara Bağlantı, cihazlarınızın birbirleri ile kablosuz olarak etkileşime geçmesine izin verir. Bu anahtarı açarak Xiaomi Ara Bağlantı'nın &lt;a href=%1$s>Gizlilik Politikası'nı&lt;/a > kabul ediyorsunuz.&lt;/Data>"</string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -294,6 +296,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">Xiaomi Ara Bağlantı özellikleri cihaz modeline ve sistem sürümüne göre değişkenlik gösterebilir. Daha fazla bilgi edinmek için sistemin resmî internet sayfasını ziyaret edin.</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Cihazınız kaybolursa, ekran kilidi ayarlamadığınız takdirde diğer insanların onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz. Yine de atla?</string>
     <string name="item_facerecognition">Yüz ile kilit açma</string>

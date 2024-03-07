@@ -134,6 +134,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">On saniye ileri sar</string>
     <string name="cast_forward_30">Otuz saniye ileri sar</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">CANLI</string>
     <string name="cast_mute">Sesi kapat</string>
     <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
@@ -169,6 +170,7 @@
     <string name="chromecast_playing">Bu videoyu Chromecast ile izliyorsunuz</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_to_open_ad">Daha fazla bilgi edinmek için dokunun</string>
     <string name="click_to_open_pip">"Resim içinde resim'e geçmek için dokunun"</string>
     <string name="click_to_play_video_push_context">Videoyu oynatmak için dokunun</string>
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
@@ -773,6 +775,8 @@ seçin"</string>
     <string name="local_subtitle_input_keyword_text">Anahtar kelimeleri ara</string>
     <string name="local_tip_act_for_android_u">Düzenle</string>
     <string name="local_tip_info_for_android_u">"Mi Video'ya yalnızca bazı videoları görüntülemesi için izin verdiniz."</string>
+    <string name="local_tip_info_for_no_audio">Cihazınıza kaydedilen ses dosyalarına erişilemiyor. Önce gerekli izinleri verin.</string>
+    <string name="local_tip_info_for_no_video">Cihazınıza kaydedilen videolara erişilemiyor. Önce gerekli izinleri verin.</string>
     <string name="local_video_create_a_new_playlist">Yeni oynatma listesi</string>
     <string name="local_video_date">Tarih</string>
     <string name="local_video_dialog_default">Varsayılan</string>
@@ -1013,6 +1017,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -1102,6 +1107,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="online_play_start_ready_loading_tip_kb">Yükleniyor %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Yükleniyor %.2f MB/s</string>
     <string name="online_play_title">URL girin</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
     <string name="out_of_memory_background_playback_is_suspended">Yetersiz bellekten dolayı arka planda oynatma duraklatıldı</string>
@@ -1372,6 +1378,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">"Öncelikle resim içinde resim özelliğini kullanmak için Mi Video'ya izin verin."</string>
     <string name="popup_window_home_tip">Çevrim içi videoları indirin</string>
+    <string name="popup_window_small_tag_tip">Bu kategorideki tüm videoları görüntülemek için bir etikete dokunun</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="privacy_agree_subtitle">"Gizlilik Politikası'na verdiğiniz izin, Mi Video'nun tüm özelliklerini kullanabilmenizi sağlar."</string>
     <string name="privacy_agree_title">İzin</string>
@@ -1461,6 +1468,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="sending">Gönderiliyor…</string>
     <string name="service_error">Sunucu hatası</string>
     <string name="set_success">Başarıyla değiştirildi</string>
+    <string name="setting_privacy_title">Şartlar ve koşullar</string>
     <string name="settings_inline_auto_play">Her zaman otomatik oynat</string>
     <string name="settings_inline_auto_play_close">Otomatik oynatma kapalı</string>
     <string name="settings_inline_auto_play_tip_close_forever">Her zaman kapalı</string>
@@ -1471,6 +1479,8 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="settings_inline_auto_play_wify">"Yalnızca Wi-Fi'de otomatik oynat"</string>
     <string name="settings_inline_title">Sayfayı otomatik oynatmayı başlat</string>
     <string name="settings_manager_hidden_folder">Gizli videoları yönet</string>
+    <string name="shake_or_click_to_open_ad">Daha fazla bilgi edinmek için sallayın veya dokunun</string>
+    <string name="shake_to_open_ad">Daha fazla bilgi edinmek için sallayın</string>
     <string name="share">Paylaş</string>
     <string name="share_text_before_link">"Mi Video'da ücretsiz harika videolar izleyin ve indirin"</string>
     <string name="share_ugc_waitting">Bağlantı adresi oluşturuluyor…</string>
@@ -1484,8 +1494,14 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="sign_in_title">Mi hesabınızda oturum açın</string>
     <string name="skip_ad">Atla</string>
     <string name="slid_fail_message">Kaydedilemedi</string>
+    <string name="slide_or_click_to_open_ad">Daha fazla bilgi edinmek için kaydırın veya dokunun</string>
     <string name="slide_save_message">Video oluşturuluyor…</string>
+    <string name="slide_to_open_ad">Daha fazla bilgi edinmek için kaydırın</string>
     <string name="small_video_load_more_hint">Daha fazla video oynatmak için yukarı kaydırın</string>
+    <string name="small_video_report">Bildir</string>
+    <string name="small_video_report_dialog_title">Bir neden seçin</string>
+    <string name="small_video_report_submit">Gönder</string>
+    <string name="small_video_report_success">Geri bildiriminiz için teşekkürler!</string>
     <string name="small_video_tab_expose_hint">Daha fazla kısa video için dokunun</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın.</string>
@@ -1493,6 +1509,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve diğe
     <string name="sns_sign_in">Diğer oturum açma yolları</string>
     <string name="source">"Kaynak: "</string>
     <string name="start_download_tip">Sıraya eklendi. Profil > İndirilenler menüsünde ilerlemeyi kontrol edin.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD Kart</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
     <string name="submit">Gönder</string>

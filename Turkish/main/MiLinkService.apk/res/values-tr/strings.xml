@@ -36,6 +36,8 @@
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="cast_auth_count_down">"Yansıtmaya başlamak için (%2$d sn.) ''%1$s'' üzerinden gelen kodu girin"</string>
+    <string name="cast_auth_title">Kodu girin</string>
     <string name="cast_image_des">Yansıtma eğitimi</string>
     <string name="casting_tips">Yansıtılıyor…</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
@@ -43,10 +45,11 @@
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
+    <string name="close_auxiliary_wifi_hint">Yansıtabilmek için \"Çift bantlı Wi-Fi hız artışı\" özelliğini kapatın</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_dp_casting_hint">Kablo bağlantısını kesin ve tekrar deneyin</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
     <string name="close_hotspot_hint_DFS">"Ögeleri bir TV'ye aktarmak için öncelikle bağlantı noktasını kapatın."</string>
-    <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı Wi-Fi ağları ile bağlantıyı kesin</string>
-    <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı WLAN ağları ile bağlantıyı kesin</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Konferans Tapcast Wi-Fi</string>
@@ -65,6 +68,7 @@
     <string name="device_desc_trust">Güvenilir cihazlar</string>
     <string name="dialog_can_not_find_device">Yakınlarda cihaz bulunamadı</string>
     <string name="dialog_cancle">İptal et</string>
+    <string name="dialog_close">Kapat</string>
     <string name="dialog_connect_fail">Bağlanılamadı</string>
     <string name="dialog_connect_retry">Tekrar denemek için dokunun</string>
     <string name="dialog_connect_verify_perssion">Önce televizyonunuzda yansıtmaya izin verin</string>
@@ -79,8 +83,8 @@
     <string name="dialog_nearbydevice_permission_message">Yansıtma özelliklerini kullanabilmesi için bu cihazın yakındaki cihazlara erişmesine izin verin.</string>
     <string name="dialog_nearbydevice_permission_title">İzin gerekli</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">"&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Hem mobil cihazınızı hem TV'nizi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda kullanılabilirdir. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> ögesini görüntüleyin.&lt;/Data>"</string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>"&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Hem mobil cihazınızı hem TV'nizi aynı Wi-Fi ağına bağlayın.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda kullanılabilirdir. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"&lt;/a> ögesini görüntüleyin."</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_only_suport_content">Fotoğraf, video veya müzik yayınlayın</string>
     <string name="dialog_open_wifi_bt">Aç</string>
@@ -94,6 +98,9 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin."</string>
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">Yansıtabilmek için \"Çift bantlı Wi-Fi hız artışı\" özelliğini kapatın. Bu özellik şimdi kapatılsın mı?</string>
+    <string name="dialog_scanning_close_tethering">Yansıtabilmek için bağlantı noktasını kapatın. Bağlantı noktası şimdi kapatılsın mı?</string>
     <string name="dialog_scanning_device">Yakınlardaki cihazlar aranıyor…</string>
     <string name="dialog_scanning_precondition">"Kablosuz Ekran'ı kullanmak için telefonunuzdaki Wi-Fi veya Bluetooth bağlantısını açın."</string>
     <string name="dialog_scanning_precondition_new_china">"Yansıtmayı kullanabilmek için WLAN, Bluetooth ve Konum hizmetleri'ni açın. Şimdi açılsın mı?"</string>
@@ -101,11 +108,13 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin."</string>
     <string name="dialog_select_tv">Cihaz seçin (%1$d)</string>
     <string name="dialog_show_help">Yardım</string>
     <string name="disconnect">Yansıtmayı durdur</string>
+    <string name="dp_casting_start_hint">Kablo ile bağlanıldı. Yansıtma sona erdi.</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">"Çift Wi-Fi'yi kapatın ve tekrar deneyin"</string>
     <string name="early_morning">Sabah</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">Ekran içeriklerini harici bir ekrana yansıtın</string>
+    <string name="enable_screen_projection_summary_new">"Mobil cihaz ekranını yakındaki TV'lere ve diğer harici monitörlere yansıtın"</string>
     <string name="eras_ad">M.S.</string>
     <string name="eras_bc">M.Ö.</string>
     <string name="error_icon_content_description">Hata</string>
@@ -168,24 +177,32 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin."</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="global_privacy">Şartlar ve koşullar</string>
-    <string name="global_privacy_detail">&lt;Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.</Data></string>
     <string name="global_privacy_explain">"Yansıtma'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlamaktadır:"</string>
     <string name="global_privacy_feature">Küçültülmüş pencereler kullanma, ekran kapalıyken yansıtma ve gizli ögeleri saklama.</string>
     <string name="global_privacy_main">Ögeleri, telefonunuzun ekranından daha büyük bir harici monitöre yansıtma.</string>
     <string name="global_privacy_negative">Reddet</string>
     <string name="global_privacy_positive">Kabul et</string>
     <string name="global_privacy_screencast">Bu özelliği sağlayan hizmet, kaydediyorken veya yansıtıyorken ekranınızda görüntülenen veya cihazınızdan oynatılan ses, şifreler, ödeme bilgileri, fotoğraflar ve mesajlar gibi hassas bilgileri yakalayabilir.</string>
-    <string name="global_privacy_tip">"&lt;Data>Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. &lt;a href=%1$s>Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz.&lt;/Data>"</string>
+    <string name="global_privacy_tip"><Data>"Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. &lt;a href=%1$s>Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz."</Data></string>
     <string name="hang_up">Ekran kapalı durumdayken yansıt</string>
     <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik pil tüketimini azaltır. Ekranı tekrar açmak için güç tuşuna basın.</string>
     <string name="hang_up_alert_dialog_neg">İptal et</string>
     <string name="hang_up_alert_dialog_pos">Tamam</string>
     <string name="hang_up_alert_dialog_title">Ekran kapalıyken yansıtma başlamak üzere…</string>
+    <string name="head_toast_connecting">Bağlanılıyor…</string>
+    <string name="head_toast_fail">Bağlanılamadı</string>
+    <string name="head_toast_success">Başarıyla bağlanıldı</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Yansıttığınız cihaz bir Xiaomi TV olduğunda Miracast'i açın.
+%2$d. Xiaomi olmayan bir TV'ye yansıttığınızda TV'nin Miracast'i desteklediğinden ve bu özelliğin açık olduğundan emin olun. Bu özellik bazı TV modellerinde Kablosuz ekran, Ekran Yansıtma veya Çoklu ekran gibi farklı bir isme sahip olabilir."</string>
+    <string name="help_page_setp_1st_02_international">"%1$d. Bazı TV markaları Miracast'i otomatik açmış olabilir."</string>
+    <string name="help_page_step_1st_01_international">"%1$d. Xiaomi TV'nizde Miracast'i açın."</string>
     <string name="help_page_text_01">Yardım</string>
     <string name="help_page_text_02">Yansıtma nedir?</string>
     <string name="help_page_text_03">Yansıtma, telefonunuzun ekranındaki ögelerin, daha büyük bir harici ekranda görüntülenmesidir. Bu özellik, mobil veri harcamadan resim ve videoları arkadaşlarınız ve ailenizle paylaşmanıza olanak sağlar.</string>
     <string name="help_page_text_04">Ögeleri daha büyük bir ekrana nasıl yansıtırım?</string>
     <string name="help_page_text_05">Adım %1$d: Cihazlarınızı ve ağ ortamını kontrol edin</string>
+    <string name="help_page_text_05_new">Adım %1$d: Cihazlarınızı ve ağ ortamını kontrol edin</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -196,13 +213,33 @@ Mobil cihazınızı ve harici monitörü en iyi etki için aynı Wi-Fi ağına b
 Not: Eski TV'ler farklı ağlarda yayın yapmayı desteklemeyebilir.
 %2$d. Eğer diğer markalardan TV'leri, set üstü kutuları veya projektörleri kullanıyorsanız, mobil cihazınızı ve harici monitörü aynı Wi-Fi ağına bağlayın.
 İki cihaz aynı ağa bağlanamıyorsa, harici monitörünüzde Miracast'i açın. Miracast işlevlerinin adlandırılması farklılık gösterebilir."</string>
+    <string name="help_page_text_06_new_1">"Xiaomi TV'ler, set üstü kutular ve projektörler:"</string>
+    <string name="help_page_text_06_new_2">"%1$d. Mobil cihazınızın ve harici monitörün aynı Wi-Fi ağına bağlı olduğundan emin olun.
+%2$d. Bazı Xiaomi TV'lerde TV'den yansıtmayı ayarlayabilir ayrıca cihaz araması ve doğrulama yöntemlerini özelleştirebilirsiniz."</string>
+    <string name="help_page_text_06_new_3">"* Yansıtma ayarlarında TV'niz için yansıtma tercihlerini ayarlayabilirsiniz."</string>
+    <string name="help_page_text_06_new_4">"Xiaomi olmayan TV'ler, set üstü kutular ve projektörler:"</string>
+    <string name="help_page_text_06_new_5">"%1$d. Mobil cihazınızın ve harici monitörün aynı Wi-Fi ağına bağlı olduğundan emin olun.
+%2$d. Bazı TV markalarında yansıtabilmek için Miracast'i açmanız gerekecektir."</string>
+    <string name="help_page_text_06_new_6">Daha fazla bilgi edin</string>
     <string name="help_page_text_08">Adım %1$d: Yansıtmayı açın</string>
+    <string name="help_page_text_08_new">Adım %1$d: Yansıtmayı açın</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">"Mobil cihazınızın Bildirim çubuğunda \"Yansıt\" geçişine dokunun. Daha dengeli bir bağlantı için Wi-Fi ve Bluetooth'u açın."</string>
+    <string name="help_page_text_09_new_1">"Cihazın Kontrol merkezi'nde yansıtmayı açın, harici bir monitörü arayın."</string>
     <string name="help_page_text_10">Fotoğrafları, videoları, oyunları veya sunumları yansıtmak istiyorsanız, ilgili uygulamalarda dahili yansıtma özelliklerini kullanabilirsiniz.</string>
     <string name="help_page_text_11">Adım %1$d: Cihaz seçin</string>
+    <string name="help_page_text_11_new">Adım %1$d: Cihaz seçin</string>
     <string name="help_page_text_12">Yansıtmaya başlamak için kullanılabilir cihazlar listesinden bir harici cihaz seçin.</string>
+    <string name="help_page_text_12_new_1">Yansıtmaya başlamak için kullanılabilir cihazlar listesinden bir harici cihaz seçin.</string>
     <string name="help_page_text_13">Harici cihaza bağlanamıyor musunuz?</string>
+    <string name="help_page_text_13_act_label_1">SSS</string>
+    <string name="help_page_text_13_desc_1">"%1$d. Mobil cihazınızın ve harici monitörün aynı Wi-Fi ağına veya bağlantı noktasına bağlı olduğundan emin olun.
+%2$d. Ağ ortamının kararlı olduğundan emin olun. Değilse yönlendiricinizi yeniden başlatmayı veya %3$d GHz ağ bandına değiştirmeyi deneyin.
+%4$d. Bir Xiaomi TV'ye yansıtıyorken TV'de kablosuz yansıtma özelliğini açın. Bağlanırken yansıtma sayfasında kalın.
+%5$d. Şirketler ve okullar gibi bazı geniş halk LAN'ları aynı LAN'daki cihazları keşfetmeyi desteklemez."</string>
+    <string name="help_page_text_13_desc_2">"Bazı TV'ler yansıtırken LAN olmayan bağlantıyı kullanır. Bu cihazların ağ ile bağlantısının kesilmesi normaldir. Yansıtma sona erdikten sonra %1$d-%2$d saniye içinde genellikle tekrar geri bağlanılır."</string>
+    <string name="help_page_text_13_summary_1">Harici cihaza bağlanamıyor musunuz?</string>
+    <string name="help_page_text_13_summary_2">Yansıtırken ağ kesilmeleri</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -218,6 +255,7 @@ Mobil cihazınızı ve harici ekranı (ör. televizyonunuz) aynı ağa bağlayı
     <string name="help_page_text_17">"Mi telefonunuzdaki ögeleri, Miracast özelliğini manuel olarak açmadan Bluetooth ile birçok Mi TV modeline yansıtabilirsiniz.
 Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalarım > Yansıtma > Miracast seçeneklerini seçin."</string>
     <string name="help_page_text_17_1">Xiaomi müşteri hizmetleri: 400-100-5678</string>
+    <string name="help_page_text_17_content">Xiaomi telefonunuzdaki ögeleri, Miracast özelliğini manuel olarak açmadan Bluetooth ile birçok Xiaomi TV modeline yansıtabilirsiniz.Miracast özelliğini açmanız gerekirse [MENU] tuşuna basın ve diğer Android telefonlara yönelik seçeneği kullanarak yansıtmayı başlatın.</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde uzaktan kumandadaki [SOURCE] tuşuna bastıktan sonra \"Ekran Yansıtma\" seçeneğini seçebilirsiniz. Bu özellik çeşitli modellerde varsayılan olarak açıktır.</string>
     <string name="help_page_text_20">Samsung müşteri hizmetleri: 400-810-5858</string>
@@ -280,14 +318,14 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
     <string name="midnight">Gece</string>
     <string name="miuix_access_state_desc">Seçili</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
     <string name="miuix_appcompat_cancel_description">İptal</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
-    <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+    <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
@@ -350,6 +388,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -398,13 +437,13 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="paipai_error_dialog_msg">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
     <string name="paipai_error_dialog_negative">Anladım</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-    <string name="path_setting_cast">Bağlantı &amp; paylaşım/Yansıtma</string>
-    <string name="path_setting_cast_demo">Bağlantı &amp; paylaşım/Yansıtma/Demolar</string>
-    <string name="path_setting_cast_demo_document">Bağlantı &amp; paylaşım/Yansıtma/Demolar/Belgeler</string>
-    <string name="path_setting_cast_demo_gallery">Bağlantı &amp; paylaşım/Yansıtma/Demolar/Fotoğraf &amp; videolar</string>
-    <string name="path_setting_cast_demo_game">Bağlantı &amp; paylaşım/Yansıtma/Demolar/Oyunlar</string>
-    <string name="path_setting_cast_feature">Bağlantı &amp; paylaşım/Yansıtma/Özel özellikler</string>
-    <string name="path_setting_cast_help">Bağlantı &amp; paylaşım/Yansıtma/Yardım</string>
+    <string name="path_setting_cast">Daha fazla bağlantı seçeneği/Yasıtma</string>
+    <string name="path_setting_cast_demo">Daha fazla bağlantı seçeneği/Yasıtma/Demo</string>
+    <string name="path_setting_cast_demo_document">Daha fazla bağlantı seçeneği/Yasıtma/Demo/Belgeler</string>
+    <string name="path_setting_cast_demo_gallery">Daha fazla bağlantı seçeneği/Yasıtma/Demo/Fotoğraflar &amp; videolar</string>
+    <string name="path_setting_cast_demo_game">Daha fazla bağlantı seçeneği/Yasıtma/Demo/Oyunlar</string>
+    <string name="path_setting_cast_feature">Daha fazla bağlantı seçeneği/Yasıtma/Özel özellikler</string>
+    <string name="path_setting_cast_help">Daha fazla bağlantı seçeneği/Yasıtma/Yardım</string>
     <string name="permission_allowed">İzin verildi</string>
     <string name="permission_uballowed">İzin verilmedi</string>
     <string name="pm">ÖS</string>
@@ -412,7 +451,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="privacy_agree">Kabul et</string>
     <string name="privacy_detail">Devam etmeden önce bu uygulamanın internete bağlanmasına izin verin ve gerekli izinleri verin.</string>
-    <string name="privacy_detail_extra">&lt;Data>Bazı özellikler, üçüncü taraf bir hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> ve &lt;a href=%2$s>HappyCast Yasal Açıklamasını&lt;/a> okuyun ve kabul edin.&lt;/Data></string>
+    <string name="privacy_detail_extra"><Data>Bazı özellikler, üçüncü taraf bir hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> ve &lt;a href=%2$s>HappyCast Yasal Açıklamasını&lt;/a> okuyun ve kabul edin.</Data></string>
     <string name="privacy_explain">"Yansıtma'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki ögeleri daha büyük harici bir monitörde yansıtmanıza olanak tanır. Bu uygulamanın internete bağlanması gerekir ve normal çalışabilmesi için aşağıdaki izinlere ihtiyacı vardır:"</string>
     <string name="privacy_negative">Çık</string>
     <string name="privacy_permission_ble">"Bluetooth'u aç veya kapat"</string>
@@ -454,11 +493,11 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_setting_show_lelink_policy">"HappyCast Gizlilik Politikası'nı görüntüle"</string>
     <string name="privacy_setting_show_policy">Gizlilik Politikasını görüntüle</string>
     <string name="privacy_setting_show_user_agreement">"Kullanıcı Sözleşmesi'ni görüntüle"</string>
-    <string name="privacy_text_1">"&lt;Data>Yansıtma'ya hoşgeldiniz! Yansıtma özelliği, telefonunuzun ekranındaki ögeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar.
+    <string name="privacy_text_1"><Data>"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği, telefonunuzun ekranındaki ögeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar.
 Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, &lt;a href=%2$s>HappyCast Yasal Bildirisi&lt;/a> ve &lt;a href=%1$s>HappyCast Gizlilik Politikası'nı&lt;/a> okuyun ve kabul edin.
-Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz.
-Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin&lt;/Data>"</string>
+Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:"</Data></string>
+    <string name="privacy_text_2"><Data>"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz.
+Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin"</Data></string>
     <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder
 　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder
 　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir
@@ -480,22 +519,38 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> 
     <string name="scan_wifi_label_global">Wi-Fi ağına bağlan</string>
     <string name="screen_projection">Yansıt</string>
     <string name="screen_projection_characteristics">Özel özellikler</string>
+    <string name="screen_projection_characteristics_cast_summary">"Ekran içeriğini yakındaki bir TV'ye yansıtın"</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">Yansıtırken pil tasarrufu yapmak ve aşırı ısınmadan kaçınmak için mobil cihaz ekranını kapatın</string>
     <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik, güç tüketimini azaltır.</string>
     <string name="screen_projection_characteristics_off_screen_title">Ekran kapalı durumdayken yansıt</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Kayan bildirimleri, gelen aramaları ve diğer özel ögeleri harici ekranlarda gösterme.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Özel ögeleri gizle</string>
+    <string name="screen_projection_characteristics_private_summary_new">Gizliliğinizi koruyun: yansıtırken cihazınız kayan bildirimleri, gelen aramaları ve diğer gizli ögeleri göstermeyecek</string>
     <string name="screen_projection_characteristics_small_window_summary">Telefonunuzdaki diğer özellikleri kullanabilmek için yansıtılan pencereyi küçültün.</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">Diğer uygulamaları kullanırken ekranı yansıtın ve içeriğini kayan pencerede gösterin</string>
     <string name="screen_projection_characteristics_small_window_title">Pencereyi küçült</string>
+    <string name="screen_projection_entrance_list">Kullanılabilir cihazları görüntüle</string>
+    <string name="screen_projection_entrance_list_new">Yansıtmak için kullanılabilir cihazların listesini görüntüleyin</string>
+    <string name="screen_projection_example_document_hint_miui15">"*Ögeler yakındaki bir TV'de görüntülenecek"</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*Bu özelliği kullanmak için Dosyalar > Belgeler menüsüne gidin ve &lt;img src=../drawable/ic_cast_icon_photo.png/> simgesine dokunun.</Data></string>
     <string name="screen_projection_example_document_summary">Slaytlar arasında geçiş yapmak ve notlara göz atmak için telefonunuzu kullanırken, sunumları harici bir ekranda gösterin. Bu özelliği denemek için Dosya Yöneticisi > Belgeler menüsüne gidin.</string>
+    <string name="screen_projection_example_document_summary_miui15">"Bu cihazı uzaktan kumanda olarak kullanırken TV'de sunum slaytlarını gösterin"</string>
     <string name="screen_projection_example_document_title">Belgeler</string>
+    <string name="screen_projection_example_gallery_hint_miui15">"*Fotoğrafları ve videoları yansıtabilmek için Galeri'de bir öge seçin, ''Paylaş'' seçeneğine dokunun ve ardından ''Yansıt'' simgesine dokunun."</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>"*Bu özelliği kullanmak için Galeri'ye gidin, bir fotoğraf seçin, alt çubuktaki ''Gönder'' seçeneğine dokunun ve &lt;img src=../drawable/ic_cast_icon_photo.png/> simgesine dokunun."</Data></string>
     <string name="screen_projection_example_gallery_summary">Galeri uygulamasındaki bir ögeyi harici bir ekrana yansıtmak için ögenin altındaki Paylaş tuşuna dokunun.</string>
+    <string name="screen_projection_example_gallery_summary_miui15">Fotoğraflarınızı ve videolarınızı TV ekranında görüntüleyin</string>
     <string name="screen_projection_example_gallery_title">Fotoğraflar &amp; videolar</string>
+    <string name="screen_projection_example_game_hint_miui15">"*Oyunları yansıtabilmek için oyun oynarken Game Turbo'daki ''Yansıt'' ögesine dokunun.
+Oyunları yansıtmadan önce Game Turbo'yu açtığınızdan emin olun."</string>
     <string name="screen_projection_example_game_summary">Game Turbo, oyunları harici bir ekrana yansıtmanıza izin verir. Bu özelliği etkinleştirmek için Game Turbo araç kutusundaki kısayolu kullanın.</string>
+    <string name="screen_projection_example_game_summary_miui15">"Oyun oturumlarınızı TV'de görüntüleyin"</string>
     <string name="screen_projection_example_game_title">Oyunlar</string>
     <string name="screen_projection_help">Yardım</string>
     <string name="screen_projection_sample_summary">Belgeler, oyunlar, fotoğraflar ve videoları yansıtmak</string>
     <string name="screen_projection_sample_title">Demolar</string>
     <string name="screen_projection_title">Yansıt</string>
+    <string name="screen_projection_title_miui15">Yansıt</string>
     <string name="search_menu_title">Ara</string>
     <string name="send">Gönder</string>
     <string name="show_result_on_tv">"Sonuçları TV'de görüntüle"</string>
@@ -553,6 +608,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> 
     <string name="thursday_short">Prş</string>
     <string name="thursday_shortest">Prş</string>
     <string name="tile_label">Yansıt</string>
+    <string name="tile_label_v2">Ara bağlantı hizmetleri</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
@@ -570,7 +626,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> 
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="trust_device_desc">Yakında olduklarında önce bu cihazlar görünecektir</string>
-    <string name="trust_device_dialog_desc">&lt;Data>Güvenilir cihaz olarak işaretlerseniz yakında olduğunda mevcut cihazlar arasında %s önce görünecektir.&lt;br>&lt;br>Ayarlar menüsünde &lt;a href=milink://com.milink.service/trust>güvenilir cihazları yönetebilirsiniz&lt;/a>.&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data>Güvenilir cihaz olarak işaretlerseniz yakında olduğunda mevcut cihazlar arasında %s önce görünecektir.&lt;br>&lt;br>Ayarlar menüsünde &lt;a href=milink://com.milink.service/trust>güvenilir cihazları yönetebilirsiniz&lt;/a>.</Data></string>
     <string name="trust_device_dialog_pos">Güven</string>
     <string name="trust_device_dialog_title">Bu cihaza güven?</string>
     <string name="trust_device_manager">Güvenilir cihazları yönet</string>

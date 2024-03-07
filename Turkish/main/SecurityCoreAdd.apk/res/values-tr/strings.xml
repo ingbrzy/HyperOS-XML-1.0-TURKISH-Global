@@ -256,6 +256,7 @@ Oluşturulan kayıtları Dosya Yöneticisi'nde görüntüleyebilirsiniz."</strin
     <string name="fingerprint_double_tap">Parmak izi sensörüne çift dokunun</string>
     <string name="fingerprint_number_upper_limit">Çok fazla başarısız kilit açma denemesi</string>
     <string name="fingerprint_removal_failed">Parmak izi silinemedi</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Yalnızca iç ekranda desteklenir</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -480,6 +481,8 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz."</string>
     <string name="launch_accessibility_environmental_speech_recognition">Ortam sesi tanıma</string>
     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto altyazılar</string>
+    <string name="launch_accessibility_live_subtitles">Akıllı altyazılar</string>
+    <string name="launch_accessibility_live_subtitles_full_screen">Tam ekran akıllı altyazılar</string>
     <string name="launch_accessibility_talkback">TalkBack</string>
     <string name="launch_accessibility_voice_control">Sesli kontroller</string>
     <string name="launch_ai_shortcut">Mi AI kısayolu</string>
@@ -559,6 +562,7 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız."</st
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -884,6 +888,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="stylus_connect_fail_not_match_tablet">Kalem tablet ile uyumlu değil</string>
     <string name="stylus_connect_fail_not_open_gps">Bağlanılamadı. Konum hizmetlerini açın ve tekrar deneyin.</string>
     <string name="stylus_connecting">Bağlanılıyor…</string>
+    <string name="stylus_dislocation_summary">Kalemi buraya takın</string>
     <string name="stylus_focus_welcome">Xiaomi Odak Kalemi ile tanışın</string>
     <string name="stylus_function_and_action">Özellikler</string>
     <string name="stylus_function_summary">Özellikler</string>

@@ -15,8 +15,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Hesaplar</item>
-        <item>Üçüncü taraf hesaplar ekle ve yönet</item>
-        <item>Hesaplar;SNS;WeChat;QQ;Mi Hesabı;Hesap;Xiaomi Hesabı</item>
+        <item>Bağlı WeChat ve diğer SNS hesaplarınızı görüntüleyin</item>
+        <item>izinler;SNS;WeChat;Xiaomi Hesabı;hesap</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Şifreyi değiştir</item>

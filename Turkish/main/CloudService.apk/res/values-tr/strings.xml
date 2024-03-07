@@ -79,6 +79,24 @@
     <string name="cloud_storage_upgrade_text">Yükselt</string>
     <string name="cloud_storage_upgrade_text_now">Yükselt</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Ücretsiz yükselt</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="confirm_save">Sakla</string>
     <string name="connect_network">Wi-Fi ağına bağlanın veya SIM kart takın</string>
     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
@@ -164,6 +182,8 @@
     <string name="feedback_custom_hint">Burada karşılaştığınız sorunları anlatın. Eğer öneri verirseniz, daha fazla ayrıntı için minnettar olacağız!</string>
     <string name="find_device">Cihazı bul</string>
     <string name="find_device_dspt_provision">Eğer cihazınızı kaybederseniz konumunu bulmak, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>%s&lt;/font> adresine gidebilirsiniz. Bu özelliği dilediğiniz zaman Ayarlar menüsünde açıp kapatabilirsiniz.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">"Cihazı bul'u açarak "<u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Politikamızı</a></u> kabul ediyorsunuz. Onayınızı geri çekmek isterseniz bu özelliği kapatın.</string>
     <string name="find_device_operation_failure_rpc">İşlem RPC hatası nedeniyle tamamlanamadı.</string>
     <string name="find_device_permissions_footer">"Seçtiğiniz izinleri vermek için ''İzin ver'' seçeneğine dokunun."</string>

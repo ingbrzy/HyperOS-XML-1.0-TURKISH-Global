@@ -308,10 +308,6 @@
         <item quantity="other">Toplam %1$d öge</item>
         <item quantity="one">Toplam %1$d öge</item>
     </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d derece döndür</item>
-        <item quantity="one">%d derece döndür</item>
-    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
@@ -577,8 +573,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">%d fotoğraf veya video yedeklenmedi</item>
-        <item quantity="one">%d fotoğraf veya video yedeklenmedi</item>
+        <item quantity="other">%d öge senkronize edilmedi</item>
+        <item quantity="one">%d öge senkronize edilmedi</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d öge yedekleme için çok büyük</item>

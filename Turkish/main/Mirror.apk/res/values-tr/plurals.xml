@@ -36,6 +36,18 @@
         <item quantity="other">%d dk. önce</item>
         <item quantity="one">%d dk. önce</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%1$s içeren %2$d dosya reddedildi</item>
+        <item quantity="one">%1$s içeren %2$d dosya reddedildi</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">%1$s içeren %2$d dosya alındı</item>
+        <item quantity="one">%1$s içeren %2$d dosya alındı</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%1$s içeren %2$d dosya</item>
+        <item quantity="one">%1$s içeren %2$d dosya</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
         <item quantity="one">Yarım saat önce</item>

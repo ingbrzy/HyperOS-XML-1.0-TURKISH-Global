@@ -68,7 +68,7 @@
     <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin.</string>
     <string name="cta_btn_agree">Kabul et</string>
     <string name="cta_btn_disagree">Reddet</string>
-    <string name="cta_main_purpose">"Ekran Görüntüsü Editörü'ne hoş geldiniz! Bu uygulamayı, ekran görüntülerinizi kırpmak ve düzenlemek için kullanabilirsiniz."</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran görüntüleri kaydetmek için</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -170,6 +170,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">Özel bilgiler fotoğraflarınızdan (%d/%d) kaldırılıyor…</string>
+    <string name="long_screenshot_content_auto">Ekran görüntüsü alınıyor…</string>
+    <string name="long_screenshot_content_loading">Yalnızca bir sn.…</string>
+    <string name="long_screenshot_content_manual">Ekran görüntüsünün bitiş noktasını manuel olarak ayarlayın, ardından \"Bitti\" seçeneğine dokunun.</string>
+    <string name="long_screenshot_done">Bitti</string>
     <string name="long_screenshot_error">Bir hata oluştu. Tekrar deneyin.</string>
     <string name="long_screenshot_guide_text">"Bir kayan ekran
 görüntüsü almak için dokunun"</string>
@@ -178,6 +182,7 @@ görüntüsü almak için dokunun"</string>
     <string name="long_screenshot_processing">İşleniyor…</string>
     <string name="long_screenshot_processing_description_accessibility">İşleniyor</string>
     <string name="long_screenshot_stop">Bitti</string>
+    <string name="long_screenshot_title">Kayan ekran görüntüsü</string>
     <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Ekran görüntüsü oluşturuluyor</string>
     <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
@@ -209,6 +214,7 @@ görüntüsü almak için dokunun"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -364,12 +370,17 @@ görüntüsü almak için dokunun"</string>
     <string name="screen_editor_btn_save">Kaydet</string>
     <string name="screen_editor_btn_shell_off">Cihaz çerçevesini kaldır</string>
     <string name="screen_editor_btn_shell_on">Cihaz çerçevesi ekle</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Bu ekran görüntüsü silinsin mi?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Bu görüntü silinsin mi?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Bitti</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Kırpılmış ekran görüntülerine cihaz çerçevesi eklenemiyor</string>
     <string name="screen_editor_shell_net_error">Cihaz çerçevesi indirmek için ağa bağlanın</string>
     <string name="screen_editor_shell_res_downloading">Cihaz çerçevesi indiriliyor…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İptal</string>
     <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
     <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>
@@ -397,6 +408,7 @@ görüntüsü almak için dokunun"</string>
     <string name="screenshot_long_screenshot">Kaydır</string>
     <string name="screenshot_save">Kaydet</string>
     <string name="screenshot_send">Gönder</string>
+    <string name="screenshot_succeed">Ekran görüntüsü başarıyla alındı</string>
     <string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
     <string name="scroll_annotation">Kaydırın ve açıklama ekleyin</string>
     <string name="scroll_annotation_btn_quit">Ek açıklamalardan çıkış yap</string>

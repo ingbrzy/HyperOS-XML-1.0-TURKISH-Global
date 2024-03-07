@@ -46,6 +46,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_app_download_start">İndirmeye başlanıyor…</string>
     <string name="ad_app_is_downloading">İndiriliyor…</string>
+    <string name="ad_flag_text">Reklam</string>
     <string name="ad_service">Reklamları göster</string>
     <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
     <string name="add_ringtone">Zil sesi ekle</string>
@@ -252,7 +253,9 @@
     <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatif</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Anlatım</string>
@@ -271,6 +274,7 @@
     <string name="expect_more">Daha fazla güncelleme için izlemede kalın!</string>
     <string name="explore_new_and_popular_themes">Yeni ve popüler temaları keşfedin</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="external_wallpaper">Dış ekran duvar kağıdı</string>
     <string name="extreme_mode_dialog_message">Bu özellik Ekstrem modda kullanılabilir değil. Bu özelliği kullanabilmek için Ekstrem modu kapatın.</string>
     <string name="extreme_mode_dialog_ok">Anladım</string>
     <string name="extreme_mode_dialog_title">Uyarı</string>
@@ -384,6 +388,9 @@
     <string name="hot_first">Öncelikle popülerler</string>
     <string name="humidity_format">Nem %s</string>
     <string name="humidity_format_with_unit">%s</string>
+    <string name="iap_pay_cancel">İptal</string>
+    <string name="iap_pay_continue">Devam et</string>
+    <string name="iap_retain_message">Bu ödemeyi şimdi iptal et?</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="icon_size">Simge boyutu</string>
     <string name="in_the_end">Görüntülenecek öge yok</string>
@@ -392,6 +399,7 @@
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmlar</string>
     <string name="item_resource_audio_optional_color_ring">Zil sesi tonu</string>
     <string name="item_resource_audio_optional_notification_ring">Bildirimler</string>
@@ -549,7 +557,7 @@ mm"</string>
     <string name="month_september">Eylül</string>
     <string name="month_september_short">Eyl</string>
     <string name="month_september_shortest">Eyl</string>
-    <string name="more">DAHA FAZLA</string>
+    <string name="more">Daha</string>
     <string name="more_personal_setting">Ek ayarlar</string>
     <string name="more_ringtones">Daha fazla zil sesi</string>
     <string name="more_system_wallpaper">Daha fazla sistem duvar kağıtları</string>
@@ -561,6 +569,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -659,7 +668,7 @@ mm"</string>
     <string name="payment_coins_balance">(Bakiye: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Yetersiz bakiye)</string>
     <string name="payment_data_move_tips">Hesap verileriniz, gizlilik düzenlemeleri ile uyumlu olması için bölgenizdeki sunucalara taşınacaktır. Taşıma sırasında veri kaybı riski vardır.</string>
-    <string name="payment_instructions">"&lt;Data>Ödemeyi tamamlayarak &lt;a href=\"%1$s\">Uygulama İçi Satın Alımlarla İlgili Bildirim'i&lt;/a> kabul ediyorsunuz.&lt;/Data>"</string>
+    <string name="payment_instructions"><Data>"Ödemeyi tamamlayarak &lt;a href=\"%1$s\">Uygulama İçi Satın Alımlarla İlgili Bildirim'i&lt;/a> kabul ediyorsunuz."</Data></string>
     <string name="payment_method">Ödeme yöntemi</string>
     <string name="permission_desc">Kaydedilen temaları ve diğer ögeleri depolamak için</string>
     <string name="permission_pop_desc">"Kişiselleştirme tercihlerini değiştirebilmek ve indirilen ögeleri kaydedebilmek için önce Temalar'ın depolama alanına erişimine izin verin."</string>
@@ -829,6 +838,7 @@ mm"</string>
     <string name="resource_pack_price_info">Liste fiyatı: %1$s</string>
     <string name="resource_pack_warning">Bu temanın %1$d bileşen(ler)ini satın aldınız. Kalan bileşenleri teker teker satın almak sizin için daha ucuza gelecektir.</string>
     <string name="resource_present">Hediye</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ücretsiz</string>
     <string name="resource_price_unit"> Mi Kredisi</string>
     <string name="resource_purchase_common_error">Bir hata oluştu, yeniden deneyin</string>
@@ -966,6 +976,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Hissedilen %s°</string>
     <string name="special_topic">Kategoriler</string>
     <string name="start_all">Tümünü devam ettir</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uygula</string>
     <string name="storage_file">İndirilen ögeleri kaydetmek için</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -992,6 +1003,7 @@ mm"</string>
     <string name="system_aod_dialog_title">Her zaman açık ekran</string>
     <string name="system_phone">Aramalar</string>
     <string name="system_precust">Ön-yüklüler</string>
+    <string name="text_play">Oynat</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık Karşıtı Günü</string>
     <string name="the_arbor_day">Ağaç Dikme Günü</string>
@@ -1097,6 +1109,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">SD karta kaydet</string>
     <string name="theme_is_external_priority_storage_summary">Temalar uygulaması değişikliklerin uygulanabilmesi için yeniden başlatılacaktır.</string>
     <string name="theme_multiple_button_title_customize">Kişiselleştir</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Hayır</string>
     <string name="theme_on_the_phone_alert">Arama sırasında oynatılamıyor</string>
     <string name="theme_recommend">Benzer temalar</string>
@@ -1117,6 +1130,7 @@ mm"</string>
     <string name="themes_has_an_updated_version">"Temalar'ın yeni sürümü mevcut"</string>
     <string name="themes_might_like">Beğenebileceğiniz temalar</string>
     <string name="third_party_pickers_activity_title">Ekle %1$s</string>
+    <string name="third_privacy_policies">Üçüncü taraf gizlilik politikaları</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Prş</string>
     <string name="thursday_shortest">Prş</string>
@@ -1169,14 +1183,15 @@ mm"</string>
     <string name="update_push_content">Şimdi güncelle</string>
     <string name="update_push_title">Temanızın yeni bir sürümü mevcut</string>
     <string name="update_title">YENİ GÜNCELLEME MEVCUT</string>
+    <string name="used_wallpaper">Daha önce kullanılan</string>
     <string name="user_agree">Kabul et</string>
     <string name="user_attention_new_theme">%s kişisinden yeni içerik</string>
     <string name="user_authorization_dialog_agree">Kabul et</string>
     <string name="user_authorization_dialog_agree_a">Kabul et</string>
     <string name="user_authorization_dialog_disagree">Çıkış</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>Temel hizmetleri sağlamak için gerekli kişisel bilgilerinizi toplamamız gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Temalar uygulamasını kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.
-İstediğiniz herhangi bir zamanda Ayarlar menüsünden Temalar'ın Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz.&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">"&lt;Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi'ni&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikası'nı&lt;/a> kabul edin. İstediğiniz zaman Ayarlar menüsünde tercihleri değiştirebilirsiniz.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_message"><Data>"Temel hizmetleri sağlamak için gerekli kişisel bilgilerinizi toplamamız gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Temalar uygulamasını kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.
+İstediğiniz herhangi bir zamanda Ayarlar menüsünden Temalar'ın Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz."</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>"Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi'ni&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikası'nı&lt;/a> kabul edin. İstediğiniz zaman Ayarlar menüsünde tercihleri değiştirebilirsiniz."</Data></string>
     <string name="user_authorization_dialog_title">Şartlar ve koşullar</string>
     <string name="user_know">Anladım</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut.</string>
@@ -1225,6 +1240,11 @@ mm"</string>
     <string name="wallpaper_settings_no_history">Geçmiş yok</string>
     <string name="wallpaper_settings_pad_more_page_title">Daha fazla duvar kağıdı</string>
     <string name="wallpaper_settings_page_title">Duvar kağıdı</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Ayarlar</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Uygula</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Görünüşe göre MIUI optimizasyonunu açmadınız. Açmadan bu temayı uyguladığınızda tema düzgün çalışmayacak. Yine de uygulayabilir veya Ayarlar'da MIUI optimizasyonunu açabilirsiniz."</string>
+    <string name="warning_miui_optimization_closed_dialog_message2">"Görünüşe göre sistem optimizasyonunu açmadınız. Açmadan bu temayı uyguladığınızda tema düzgün çalışmayacak. Yine de uygulayabilir veya Ayarlar'da sistem optimizasyonunu açabilirsiniz."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Uyarı</string>
     <string name="watermark_label_prefix">AdMob -</string>
     <string name="weather_no_data">Hava durumu verisi yok</string>
     <string name="wednesday">Çarşamba</string>

@@ -60,7 +60,6 @@
     <string name="action_item_remove">Kaldır</string>
     <string name="action_item_remove_from_favorite">Favorilerden kaldır</string>
     <string name="action_item_share">Paylaş</string>
-    <string name="action_settings">Ayarlar</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_close">Kapat</string>
     <string name="ad_data_exception">Reklam veri hatası</string>
@@ -102,12 +101,11 @@
     <string name="app_description_title">"''Müzik'' Ana ekrandan kaldırılsın mı?"</string>
     <string name="app_disable_description_content">Mi Müzik bir sistem uygulamasıdır. Devre dışı bırakırsanız, diğer uygulamaları kullanmanızı etkileyebilir. Yine de devre dışı bırakılsın mı?</string>
     <string name="app_disable_description_title">Sistem uygulaması devre dışı bırakılsın mı?</string>
-    <string name="app_label">İndirilenler</string>
     <string name="app_notify_dialog_btn_desc">Ayarlar</string>
     <string name="app_notify_dialog_check_desc">Bildirim çubuğu aracını açın ancak kalıcı bildirimlere izin vermeyin</string>
-    <string name="app_notify_dialog_path">Ayarlar > Bildirimler &amp; durum çubuğu > Uygulama bildirimleri > Müzik</string>
-    <string name="app_notify_dialog_path_10">Ayarlar > Bildirimler &amp; durum çubuğu > Uygulama bildirimleri > Müzik</string>
-    <string name="app_notify_dialog_path_8">Ayarlar > Bildirimler &amp; durum çubuğu > Uygulama bildirimleri > Müzik</string>
+    <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path_10">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path_8">Settings > Notifications &amp; status bar > App notifications > Music</string>
     <string name="app_notify_dialog_subtitle">Bildirim çubuğunda müzik çalmayı kontrol edebilmek için Mi Müzik için bildirimleri açın.</string>
     <string name="app_notify_dialog_title">İzin gerekli</string>
     <string name="app_permission_confirm">Anladım</string>
@@ -121,9 +119,10 @@
     <string name="app_permission_use_group_storage">Depolama</string>
     <string name="app_permission_use_group_storage_desc">Cihazınızda kayıtlı şarkıları bulmak ve oynatmak için</string>
     <string name="app_resident_push_switch">Kalıcı bildirimlere izin ver</string>
+    <string name="app_third_privacy">Üçüncü taraf gizlilik politikaları</string>
     <string name="apply_for_the_following_permissions">Bu uygulama aşağıdaki izinleri ister:</string>
     <string name="apply_permissions_greater_than_pie">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dosyalar ve medya > Müzik menüsünde verebilirsiniz.</string>
-    <string name="apply_permissions_greater_than_tiramisu">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Müzik ve ses/Fotoğraflar ve videolar > Müzik menüsünde verebilirsiniz.</string>
+    <string name="apply_permissions_greater_than_tiramisu">You can grant this permission in Settings > Apps > Permissions > Music and audio/Photos and videos > Music.</string>
     <string name="apply_permissions_less_than_pie">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dahili depolamadaki dosyalara eriş ve dosyaları değiştir > Müzik menüsünde verebilirsiniz.</string>
     <string name="apply_permissions_tips_content">Bu uygulamanın cihazınızdaki müziği keşfetmek için dosyalara erişmesine izin verin.</string>
     <string name="artist">Sanatçılar</string>
@@ -139,7 +138,65 @@
     <string name="artist_home_search_hint">Sanatçı ara</string>
     <string name="artist_is_empty">Sanatçı adı boş bırakılamaz.</string>
     <string name="artist_name">Sanatçı</string>
-    <string name="audio_ad_countdown">%ssn. içinde reklamı atla</string>
+    <string name="asm_batch_download_failed">İndirilemedi</string>
+    <string name="asm_buy_member_success">VIP üyelik başarıyla satın alındı</string>
+    <string name="asm_dialog_title_tips">VIP üyelik</string>
+    <string name="asm_dialog_vip_confirm_text">Katıl</string>
+    <string name="asm_dialog_vip_message">Yüksek kaliteli şarkıları dinlemek ve daha fazla içerik indirmek için bir VIP üyeliğe kaydolun.</string>
+    <string name="asm_disable_song_click_tip">Bu şarkı telif hakkı sorunlarından dolayı mevcut değil</string>
+    <string name="asm_download_failed">\"%1$s\" indirilemedi</string>
+    <string name="asm_download_is_downloaded">Şarkı başarıyla indirildi</string>
+    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloading">İndiriliyor…</string>
+    <string name="asm_download_list_not_supported">Bu listedeki bazı şarkılar indirilemiyor</string>
+    <string name="asm_download_pending_status_msg">İndirmeye hazırlanıyor…</string>
+    <string name="asm_download_success">"''%1$s'' indirildi"</string>
+    <string name="asm_during_the_payment">Ödeme durumu kontrol ediliyor…</string>
+    <string name="asm_fail_play_song">Şarkı indirilemedi</string>
+    <string name="asm_google_connect_failed">"Ödeme tamamlanamadı. Play Store'da oturum açtığınızdan emin olun."</string>
+    <string name="asm_google_no_goods">Ürün bilgisi alınamadı</string>
+    <string name="asm_google_not_login">"Google Play'de oturum açın ve tekrar deneyin"</string>
+    <string name="asm_google_pay_success">Google Pay siparişi oluşturuldu</string>
+    <string name="asm_google_query_failed">Ürün bilgisi alınamadı</string>
+    <string name="asm_google_service_failed">Google hizmetleri başlatılamadı. Tekrar deneyin.</string>
+    <string name="asm_gooleplay_notice">Google Play hizmetleri yüklü değil</string>
+    <string name="asm_loadstate_error_retry">İnternete bağlanın ve tekrar denemek için dokunun</string>
+    <string name="asm_loadstate_not_more">Şimdilik bu kadar</string>
+    <string name="asm_network_error">Ağ bağlantınızı kontrol edin</string>
+    <string name="asm_new_song_title">Yeni şarkı</string>
+    <string name="asm_no_need_download_songs">Şarkı indirme sırasında</string>
+    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_not_action_is_local_music">Yerel dosyalarda bu eylem gerçekleştirilemez</string>
+    <string name="asm_notify_use_mobile_download">Mobil veri kullanılarak indiriliyor</string>
+    <string name="asm_page_empty_search">Sonuç bulunamamadı</string>
+    <string name="asm_page_error_airplane">Bağlanabilmek için Uçak modunu kapatın</string>
+    <string name="asm_page_error_data">Bir hata oluştu</string>
+    <string name="asm_page_error_no_network">Ağa bağlanılamadı</string>
+    <string name="asm_page_local_empty_action">Yeni müzikler keşfedin</string>
+    <string name="asm_pay_info_deduction_failed">Otomatik ödeme tamamlanamadı. VIP üyeliğinizin avantajlarını kaybetmekten kaçınmak için ödeme yönteminizi en kısa zamanda kontrol edin.</string>
+    <string name="asm_pay_info_upload_failed">Sipariş verisi yüklenemedi</string>
+    <string name="asm_pay_order_generate">Sipariş oluşturuluyor…</string>
+    <string name="asm_pay_order_generate_failed">Sipariş oluşturulamadı</string>
+    <string name="asm_pay_query_overtime">Ödeme durumu talebi zaman aşımını uğradı</string>
+    <string name="asm_privacy_desc">Wansheng Gizlilik Politikası</string>
+    <string name="asm_privacy_tips_content">Çevrim içi müzik hizmetlerini kullanabilmek için <a href="/link/click">"Wansheng Gizlilik Politikası'nı"</a> kabul edin.</string>
+    <string name="asm_privacy_tips_title">Wansheng Gizlilik Politikası</string>
+    <string name="asm_pro_center">Üyelik</string>
+    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_song_err_connect">Sunucuya bağlanılamadı</string>
+    <string name="asm_song_err_not_exist">İstenilen ses kaynağı mevcut değil</string>
+    <string name="asm_song_err_not_exist_clear">Şarkı mevcut değil. Sıradan kaldırıldı.</string>
+    <string name="asm_song_err_play">Çalınamadı. Tekrar deneyin.</string>
+    <string name="asm_songlist_all_genre_close">Tümünü daralt</string>
+    <string name="asm_songlist_all_genre_title">Tüm kategoriler</string>
+    <string name="asm_songs_is_downloading">Şarkı indirliyor…</string>
+    <string name="asm_stop_action_when_no_network">Ağa bağlanın ve tekrar deneyin</string>
+    <string name="asm_tips_cannot_download_disable_songs">Bu şarkı indirilemiyor</string>
+    <string name="asm_toast_pay_canceled">Ödeme iptal edildi</string>
+    <string name="asm_toast_pay_failed">Ödeme tamamlanamadı</string>
+    <string name="asm_unknow_album">Bilinmeyen albüm</string>
+    <string name="asm_unknow_artist">Bilinmeyen sanatçı</string>
+    <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">Reklamı atla</string>
     <string name="audio_picker_title">Bir şarkı seçin</string>
     <string name="auto_play_switch">Videoları otomatik oynat</string>
@@ -150,28 +207,21 @@
     <string name="auto_update_tip">Sistem uygulamalarını mobil veri kullanarak güncelleyebilirsiniz. Bu işlem ek veri ücretlerine neden olabilir.</string>
     <string name="autoplay_is_off">Otomatik oynatma kapalı</string>
     <string name="autoplay_is_on">Otomatik oynatma açık</string>
-    <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
-    <string name="avatar">Profil fotoğrafı</string>
+    <string name="available_playlist_name_format">New playlist %d</string>
+    <string name="avatar">Profile photo</string>
     <string name="avoid_to_use_traffic_summary">Müzik akışı için mobil ağı kullanma</string>
     <string name="avoid_to_use_traffic_title">Şarkı oynatmak için mobil veri kullanıldığında sor</string>
     <string name="back">Geri</string>
-    <string name="back_confirm">Çıkış yapmak için tekrar dokunun</string>
+    <string name="back_confirm">Tap again to exit</string>
     <string name="best_experience">En iyi deneyim</string>
-    <string name="billion_char">%sB</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="btn_text_edit">Düzenle</string>
     <string name="btn_text_view_all">Tümünü görüntüle</string>
     <string name="buffering">Yükleniyor…</string>
-    <string name="button_cancel_download">İptal</string>
-    <string name="button_download_now">Şimdi indir</string>
-    <string name="button_queue_for_wifi">Sıra</string>
-    <string name="button_sort_by_date">Tarihe göre sırala</string>
-    <string name="button_sort_by_size">Boyuta göre sırala</string>
-    <string name="button_wait_for_wifi">Bekle</string>
     <string name="buy_vip_skip_ad">Reklamları kaldır</string>
-    <string name="cancel">İptal</string>
-    <string name="cancel_running_download">İptal et</string>
+    <string name="cancel">İptal et</string>
     <string name="cannot_download_to_sdcard_hint">Telif hakları kısıtlamasından dolayı ögeler SD karta indirilemiyor. Ögeler dahili depolamaya indirilecektir.</string>
     <string name="change_download_quality">İndirme kalitesini değiştir</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
@@ -225,6 +275,7 @@
     <string name="current_album">Mevcut albüm kapağı</string>
     <string name="current_lyric">Mevcut şarkı sözleri</string>
     <string name="current_version">Mevcut sürüm</string>
+    <string name="daily_recommend_desc">Sizin için özenle seçilmiş günlük öneriler</string>
     <string name="daily_recommendation">Günlük miks</string>
     <string name="dark_mode">Karanlık mod</string>
     <string name="data_usage_warning">Veri kullanımı</string>
@@ -237,12 +288,10 @@
     <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="delete">Sil</string>
-    <string name="delete_download">Sil</string>
     <string name="delete_file_as_well">Bu şarkıyı kalıcı olarak sil</string>
     <string name="delete_file_end">Kalıcı olarak sil</string>
     <string name="delete_file_error">Dosya silinemedi</string>
     <string name="delete_file_start">Seçili dosyaları sil</string>
-    <string name="deselect_all">Tüm seçimleri kaldır</string>
     <string name="desktop_lyric_button_close">Kapat</string>
     <string name="desktop_lyric_button_lock">Kilitle</string>
     <string name="desktop_lyric_color">Renk</string>
@@ -255,23 +304,13 @@
     <string name="desktop_lyric_textsize">Metin</string>
     <string name="device_connected">Bağlandı</string>
     <string name="device_not_connected">Bağlı değil</string>
-    <string name="dialog_cannot_resume">İndirme işlemi kesintiye uğradı. Devam edilemiyor.</string>
     <string name="dialog_clear_history">Son çalınan şarkı listesi temizlensin mi?</string>
-    <string name="dialog_confirm_delete_checkbox_message">Yerel dosyaları da sil</string>
     <string name="dialog_continue">Tamam</string>
-    <string name="dialog_failed_body">Daha sonra indirme denensin veya dosya sıradan kaldırılsın mı?</string>
-    <string name="dialog_file_already_exists">İndirilemiyor. Bu dosya zaten mevcut.</string>
-    <string name="dialog_file_missing_body">İndirilen dosya bulunamadı.</string>
-    <string name="dialog_file_missing_title">Dosya açılamıyor</string>
-    <string name="dialog_insufficient_space_on_cache">İndirme işlemi tamamlanamıyor, yeterli dahili depolama alanı kalmadı.</string>
-    <string name="dialog_insufficient_space_on_external">İndirme işlemi tamamlanamıyor. SD kartta yeterli boş olan yok.</string>
-    <string name="dialog_media_not_found">İndirilemiyor. SD kart kullanılamıyor.</string>
     <string name="dialog_message_unfollow">Bu kişiyi takibi sonlandır?</string>
     <string name="dialog_my_playlist_online_changed_merge">Sakla</string>
     <string name="dialog_my_playlist_online_changed_message">Görünüşe göre bu çalma listesi değişmiş. Çalma listesini yeni haliyle değiştirebilir veya eskisini saklayabilirsiniz.</string>
     <string name="dialog_my_playlist_online_changed_replace">Değiştir</string>
     <string name="dialog_my_playlist_set_to_public">"Bu çalma listesini Mi Müzik ve hungama Music'in tüm kullanıcılarıyla paylaşın"</string>
-    <string name="dialog_queued_body">Bu dosya indirilecekler sırasına alındı.</string>
     <string name="dialog_renew_failure">Üzgünüm, işlem başarısız</string>
     <string name="dialog_renew_free_end">"Ücretsiz deneme süreniz sona erdi. hungama Gold'a abone olmak ister misiniz?"</string>
     <string name="dialog_renew_positive_text">Gold üyeliğimi yenile!</string>
@@ -299,8 +338,6 @@
     <string name="dialog_title_clearlist_tracks">Çalma sırasından kaldır</string>
     <string name="dialog_title_delete_tracks">Sil</string>
     <string name="dialog_title_name_playlist">Çalma listesi adı</string>
-    <string name="dialog_title_not_available">İndirilemedi</string>
-    <string name="dialog_title_queued_body">Dosya henüz kullanılabilir değil</string>
     <string name="dialog_title_remove_tracks">Kaldır</string>
     <string name="disallow_add_to_fm">FM radyoya şarkı eklenemiyor</string>
     <string name="discover_more_music">Daha fazla şarkı keşfedin</string>
@@ -308,10 +345,6 @@
     <string name="do_not_support_google_voice_search">Google Sesli Arama cihazınızda desteklenmiyor.</string>
     <string name="download">İndir</string>
     <string name="download_added_to_list">İndirme listesine eklendi</string>
-    <string name="download_apk_desktop_installing">Yükleniyor</string>
-    <string name="download_apk_desktop_pause">Duraklatıldı</string>
-    <string name="download_apk_desktop_pending">Beklemede</string>
-    <string name="download_apk_desktop_running">İndiriliyor</string>
     <string name="download_auto_after_favorite_no_vip_summary">Favorilere eklediğiniz şarkıları otomatik olarak indirin (Ücretli içerik hariç)</string>
     <string name="download_auto_after_favorite_summary">Favorilerinize eklediğiniz şarkıları otomatik olarak indirin</string>
     <string name="download_auto_after_favorite_title">Favorileri indir</string>
@@ -330,32 +363,18 @@
     <string name="download_dialog_fail">İndirilemedi</string>
     <string name="download_dialog_success">Başarıyla indirildi</string>
     <string name="download_done_btn">İndirildi</string>
-    <string name="download_error">Başarısız oldu</string>
-    <string name="download_error_insufficient_space">Yeterli boş alan yok</string>
     <string name="download_fail_to_fetch_info">İndirilemedi, tekrar deneyin</string>
-    <string name="download_filesize_unknown">Bilinmeyen</string>
     <string name="download_free">Müzik indir</string>
-    <string name="download_in_process">İNDİRİLİYOR</string>
-    <string name="download_info_start_deleted_tasks">İndirmeleri kaldır</string>
-    <string name="download_manage">İndirilenler</string>
-    <string name="download_manage_item_complete">TAMAMLANDI</string>
     <string name="download_method">İndir</string>
-    <string name="download_no_application_title">Dosya açılamıyor</string>
     <string name="download_paused_in_power_save_mode">İndirme işlemleri Pil Tasarrufu modu açık olduğunda duraklatılır</string>
     <string name="download_processing">İndiriliyor…</string>
+    <string name="download_progress">%%%d</string>
     <string name="download_quality">İndirme kalitesi</string>
     <string name="download_quality_summary">İndirdiğiniz şarkılar için ek ayarlar</string>
-    <string name="download_queued">Sıraya alındı</string>
-    <string name="download_running">Devam ediyor</string>
-    <string name="download_running_percent">Devam ediyor, %%%d</string>
-    <string name="download_share_dialog">Şunu kullanarak paylaş</string>
     <string name="download_song_quality_title">İndirilen şarkıların kalitesi</string>
     <string name="download_start">İndirmeye başlanıyor…</string>
     <string name="download_start_apk">İndirmeye başlanıyor… İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz.</string>
     <string name="download_start_btn">İndir</string>
-    <string name="download_success">Tamamlandı</string>
-    <string name="download_title_sorted_by_date">İndirilenler - Tarihe göre sıralı</string>
-    <string name="download_title_sorted_by_size">İndirilenler - Boyuta göre sıralı</string>
     <string name="download_toast">Şarkı indirmek için mobil veri kullanılıyor</string>
     <string name="download_toast_with_beyond_data">Şarkı indirmek için mobil veri kullanılıyor. Sınır %s kadar aşıldı</string>
     <string name="download_toast_with_data">Şarkı indirmek için mobil veri kullanılıyor, %s kaldı</string>
@@ -366,18 +385,14 @@
     <string name="download_traffic_dialog_negative_button">Wi-Fi bağlantısını bekle</string>
     <string name="download_traffic_dialog_position_button">İndir</string>
     <string name="download_traffic_dialog_position_button_serious">İndir</string>
-    <string name="download_traffic_dialog_title">Veri kullanımı uyarısı</string>
+    <string name="download_traffic_dialog_title">Data usage warning</string>
     <string name="download_traffic_dialog_title_beyond">Veri kullanım sınırı aşıldı</string>
     <string name="download_traffic_dialog_title_serious">Çok az mobil veri kaldı</string>
-    <string name="download_unknown_title">&lt;Başlıksız></string>
-    <string name="download_wait_connect">Bağlantı bekleniyor</string>
     <string name="download_while_playing_no_vip_summary">Çevrimiçi müzik dinliyorken şarkıları otomatik olarak indirin (Ücretli içerik hariç)</string>
     <string name="download_while_playing_summary">Çevrimiçi dinlediğiniz şarkıları otomatik olarak indirin</string>
     <string name="download_while_playing_title">Akış esnasında indir</string>
-    <string name="downloaded">İndirilen</string>
-    <string name="downloaded_empty">Boş</string>
+    <string name="downloaded">Downloaded</string>
     <string name="downloading_apk">İndiriliyor… İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz.</string>
-    <string name="downloading_empty">Boş</string>
     <string name="downloading_pause_apk">Duraklatıldı. İndirmeye bildirim çubuğunda devam edebilirsiniz.</string>
     <string name="due_date">Son tarih: %s</string>
     <string name="early_morning">Sabah</string>
@@ -387,23 +402,22 @@
     <string name="empty_page_no_artist">Sanatçı yok.</string>
     <string name="enabled">Etkinleştirildi</string>
     <string name="enjoy_hungama_pro">"hungama Gold'un keyfini çıkarın"</string>
-    <string name="enroll_in">Kaydol</string>
-    <string name="enter_garbage_clean">Dahili depolama alanını temizleyin.</string>
-    <string name="entertainment">Eğlence</string>
+    <string name="enroll_in">Katıl</string>
+    <string name="entertainment">Entertainment</string>
     <string name="eq_auto">Özel</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Klasik</string>
     <string name="eq_country">Yerel</string>
     <string name="eq_dance">Dans</string>
     <string name="eq_delete">Kaldır</string>
-    <string name="eq_delete_success">Tamam</string>
+    <string name="eq_delete_success">Tamamlandı</string>
     <string name="eq_electronic">Elektronik</string>
     <string name="eq_flat">Varsayılan</string>
     <string name="eq_hiphop">Hip Hop</string>
     <string name="eq_jazz">Caz</string>
     <string name="eq_metal">Metal</string>
     <string name="eq_pop">Pop</string>
-    <string name="eq_preset_format">Kullanıcı tanımlı %d</string>
+    <string name="eq_preset_format">Kullanıcı ön ayarı %d</string>
     <string name="eq_preset_hint">Efekt adı</string>
     <string name="eq_preset_select">Bir ön ayar seçin</string>
     <string name="eq_rock">Rock</string>
@@ -450,7 +464,9 @@
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
     <string name="exo_media_action_repeat_off_description">Hiçbirini tekrarlama</string>
     <string name="exo_media_action_repeat_one_description">Bir şarkıyı tekrarla</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatif</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Anlatım</string>
@@ -499,11 +515,11 @@
     <string name="filter_by_folder">Klasöre göre</string>
     <string name="filter_by_folder_summary">Görüntülenecek klasörleri seçin</string>
     <string name="filter_by_size">Boyuta göre</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Şu boyuttan küçük dosyaları gizle: "</string>
     <string name="filter_by_size_summary">Küçük ses dosyalarını gizle</string>
-    <string name="filter_size_unit">%dKB</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="find_you_tunes">Ezgilerinizi bulun</string>
     <string name="floating_view_dialog_desc">Bu sayfadan şimdi ayrılırsanız müzik duracaktır. Yine de çıkılsın mı?</string>
     <string name="floating_view_dialog_leave">Ayrıl</string>
@@ -566,7 +582,7 @@
     <string name="format_not_support">Dosya biçimi desteklenmiyor.</string>
     <string name="format_unsupported_or_corrupted">Dosya biçimi desteklenmiyor veya dosya hasarlı</string>
     <string name="fragment_title_artist_album">Albümler</string>
-    <string name="free">Ücretsiz</string>
+    <string name="free">Free</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -589,9 +605,9 @@
     <string name="hgm_failed_to_connect_hint">Ağ ayarlarınızı kontrol edin ve tekrar deneyin. Hungama sunucusu hatası varsa mümkün olan en kısa sürede düzelteceğiz.</string>
     <string name="hgm_has_offline">hungama tarafından sağlanan müzik çalınamıyor</string>
     <string name="hgm_network_request_error_toast">Hungama sucularına bağlanılamadı. Tekrar deneyin.</string>
-    <string name="hgm_vip_btn_desc">Ücretsiz denemeyi başlat</string>
-    <string name="hgm_vip_high_quality">Yüksek kaliteli indirmeler</string>
-    <string name="hgm_vip_no_ads">Reklam veya sınır yok</string>
+    <string name="hgm_vip_btn_desc">Start free trial</string>
+    <string name="hgm_vip_high_quality">High quality downloads</string>
+    <string name="hgm_vip_no_ads">No ads or limits</string>
     <string name="hide_album">Albüm kapağını gizle</string>
     <string name="hide_lyric">Şarkı sözlerini gizle</string>
     <string name="hide_or_add_songs_manually">Gizli şarkıları göster</string>
@@ -604,7 +620,7 @@
     <string name="higher_quality_music">Yüksek kaliteli ses</string>
     <string name="higher_quality_music_summary">Daha yüksek bit hızına sahip dosyaları çal ve indir</string>
     <string name="hint_search_songs_playlists_artists">Şarkı, oynatma listesi ve sanatçı ara</string>
-    <string name="home_tab_home">Ana sayfa</string>
+    <string name="home_tab_home">Home</string>
     <string name="home_tab_local">Müziğim</string>
     <string name="home_tab_more_music">Daha fazla müzik</string>
     <string name="home_tab_online">Çevrimiçi müzik</string>
@@ -617,7 +633,7 @@
     <string name="hungama_batch_download_alert_summary_toast">Tüm çalma listesini indirmek için bir abonelik satın alın.</string>
     <string name="hungama_download_subscription_toast">"Bu şarkıyı indirmek için hungama Music'e abone olun"</string>
     <string name="hungama_free_download_out_summary">Daha fazla ücretsiz şarkı indiremezsiniz. Limitsiz şarkı indirebilmek için Gold üyelik alınsın mı?</string>
-    <string name="hungama_free_download_out_summary_toast">Zaten %d şarkı indirdiniz. Daha fazla indirmek için abonelik satın alın.</string>
+    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
     <string name="hungama_privacy_desc">hungama Gizlilik Politikası (isteğe bağlı)</string>
     <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için, <a href="/link/click">Hungama Gizlilik Politikasını</a> kabul etmelisiniz.</string>
     <string name="hungama_privacy_tips_title">hungama Gizlilik Politikası</string>
@@ -626,8 +642,8 @@
     <string name="hungama_subscribe_title">Gold üyelik</string>
     <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
-    <string name="imported">İçe aktarılan</string>
-    <string name="impunity_declaration_content">Ürünü kullanmaya başlamadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=tr_TR\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=tr_TR\">Gizlilik Politikasını&lt;/a> okumanız ve kabul etmeniz gerekmektedir.</string>
+    <string name="imported">İçe aktarıldı</string>
+    <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
     <string name="impunity_declaration_ignore">Tekrar gösterme</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_positive_text">Kabul et</string>
@@ -645,7 +661,6 @@
     <string name="individuation_setting_title">Kişiselleştirilmiş öneriler</string>
     <string name="input_hint_prefix">%1$s girin</string>
     <string name="installing_apk">Yükleniyor…</string>
-    <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli boş alan yok</string>
     <string name="is_latest_version">Müzik uygulaması güncel.</string>
     <string name="is_scanning">Depolama alanı kontrol ediliyor…</string>
     <string name="is_scanning_support_online">"Depolama alanı kontrol ediliyor…
@@ -695,8 +710,7 @@
     <string name="jump_to_ytb_dialog_desc">"Mi Müzik'ten ayrılmak ve YouTube'u açmak üzeresiniz. YouTube şimdi açılsın mı?"</string>
     <string name="jump_to_ytb_dialog_ok">Onayla</string>
     <string name="jump_to_ytb_dialog_title">"Mi Müzik'ten ayrılıyor"</string>
-    <string name="just_hit_next">Sadece ileri dokunun</string>
-    <string name="keep_queued_download">Sürdür</string>
+    <string name="just_hit_next">Just hit next</string>
     <string name="ktv_playlist">KTV şarkı listesi</string>
     <string name="language_page_confirm">Onayla</string>
     <string name="language_preference">Dil seçenekleri</string>
@@ -711,6 +725,7 @@
     <string name="loading_hint">Yalnızca bir sn…</string>
     <string name="loading_reached_the_bottom">Şimdilik bu kadar.</string>
     <string name="loading_text">Yalnızca bir sn.…</string>
+    <string name="local_ad_title">Promosyon</string>
     <string name="local_download_download">İndir</string>
     <string name="local_download_hint">"İndirmeden önce Wi-Fi'yı açın"</string>
     <string name="local_download_item">Ücretsiz indir</string>
@@ -730,13 +745,13 @@
     <string name="local_page_song_download_history">İndirilenler</string>
     <string name="login_instantly">Oturum aç</string>
     <string name="login_mi_account_and_gain_more_rights">Daha fazla özelliğe erişmek için Xiaomi Hesabınız ile oturum açın.</string>
-    <string name="login_out_tip">Şu an oturum kapatılamıyor. Bunun yerine tüm uygulama verilerini temizleyebilirsiniz.</string>
+    <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
     <string name="long_press_to_select_lyric">Yerel şarkı sözleri dosyasını seçmek için basın &amp; basılı tutun</string>
     <string name="lots_of_songs_for_free">Milyonlarca ücretsiz şarkı dinleyin</string>
     <string name="low_sound_quality">Düşük</string>
     <string name="lrc_search_failed">Şarkı sözü bulunamadı</string>
     <string name="lrc_searching">Aranıyor…</string>
-    <string name="ludo_tab_guide">Yeni Müzik odalarımıza göz atın</string>
+    <string name="ludo_tab_guide">Check out our new Music rooms</string>
     <string name="lyric_is_empty">Şarkı sözleri yok</string>
     <string name="lyric_label">Şarkı sözleri</string>
     <string name="lyric_open_other_connect">Şarkı sözlerini mobil ağ kullanarak indir</string>
@@ -760,10 +775,8 @@
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Zamanı seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
-    <string name="menu_title_pause_all">Tümünü duraklat</string>
-    <string name="menu_title_resume_all">Tümünü başlat</string>
     <string name="message_delete_playlist">%s çalma listesi silinsin mi?</string>
-    <string name="metered_alert">Veri kullanımı uyarısı</string>
+    <string name="metered_alert">Data usage warning</string>
     <string name="metered_alert_msg">Şarkı oynatmak için mobil veri kullanıyorsunuz. Yinede oynatılsın mı?</string>
     <string name="metered_alert_msg_with_data">%s mobil veriniz kaldı. Şarkı oynatmak için mobil veri kullanılsın mı?</string>
     <string name="metered_allow">Oynat</string>
@@ -781,9 +794,8 @@
     <string name="middle_sound_quality">Standart</string>
     <string name="midnight">Gece</string>
     <string name="milink_unavaliable_please_update">"Mi Link mevcut değil. MIUI'yi güncelleyin."</string>
-    <string name="million_char">%sM</string>
+    <string name="million_char">%s M</string>
     <string name="millions_songs">Milyonlarca şarkı</string>
-    <string name="missing_title">&lt;Bilinmeyen></string>
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_no_network">Ağa bağlanılamıyor.</string>
     <string name="miuishare_publish">Gönder</string>
@@ -813,7 +825,6 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yalnızca bir sn…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ögeler yüklenemedi</string>
-    <string name="mobile_recommended_title">Mobil veri kullanımı</string>
     <string name="modify_lyric">Şarkı sözlerini düzenle</string>
     <string name="modify_pic">Kapağı değiştir</string>
     <string name="modify_progress">Şarkı sözleri kaydırma hızını değiştir</string>
@@ -859,7 +870,7 @@
     <string name="month_september">Eylül</string>
     <string name="month_september_short">Eyl</string>
     <string name="month_september_shortest">Eyl</string>
-    <string name="more">Daha fazla</string>
+    <string name="more">Daha</string>
     <string name="more_add_song_list">Çalma sırasına şarkı ekle</string>
     <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
     <string name="more_settings">Gelişmiş ayarlar</string>
@@ -873,6 +884,7 @@
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -915,6 +927,9 @@
     <string name="my_playlist_create_self_playlist">Favori şarkılarınızla çalma listesi oluşturun</string>
     <string name="my_playlist_set_to_private">Özel hale getir</string>
     <string name="my_playlist_set_to_public">Herkese aç</string>
+    <string name="native_body">Metin</string>
+    <string name="native_headline">Başlık</string>
+    <string name="native_media_view">Medya Görünümü</string>
     <string name="nav_app_bar_navigate_up_description">Yukarı git</string>
     <string name="nav_app_bar_open_drawer_description">Gezinme çekmecesini aç</string>
     <string name="need_to_close">Daha az göster</string>
@@ -929,7 +944,6 @@
     <string name="night">Akşam</string>
     <string name="no_album_info">Albüm bilgisi yok</string>
     <string name="no_artist_info">Sanatçı bilgisi yok</string>
-    <string name="no_downloads">İndirilen dosya yok</string>
     <string name="no_fans_empty_title">Henüz takipçiniz yok</string>
     <string name="no_favorites_songs">Boş</string>
     <string name="no_file_picker_find">Dosya Yöneticisi yüklü değil.</string>
@@ -952,17 +966,14 @@
     <string name="not_selected">Bir şarkı seçin</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_documentui">DocumentUI bu cihazda desteklenmiyor</string>
-    <string name="notif_title_file_size">Toplam %1$d</string>
-    <string name="notif_title_single_downloading">İndiriliyor: %1$s</string>
-    <string name="notification_download_complete">İndirme işlemi tamamlandı</string>
-    <string name="notification_download_failed">İndirilemedi</string>
-    <string name="notification_download_success_more">%1$d indirildi</string>
-    <string name="notification_need_wifi_for_size">İndirme işlemi boyutu Wi-Fi ağı gerektiriyor.</string>
     <string name="notification_play_summary">Mevcut ve bir sonraki şarkıyı görün, şarkı sözlerini ana ekranda görüntüleyin</string>
     <string name="notification_play_title">Bildirim çubuğu aracı</string>
     <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama promosyonları hakkında bilgi edinin</string>
     <string name="notification_recommend_title">Önemli bildirimler</string>
     <string name="notification_setting">Bildirim ayarları</string>
+    <string name="notifications_permission_confirm">İzin ver</string>
+    <string name="notifications_permission_decline">İzin verme</string>
+    <string name="notifications_permission_title">Uygulamanın size bildirim göndermesine izin verilsin mi?</string>
     <string name="nowplaying_circle_style">Çalma tuşu stili</string>
     <string name="nowplaying_circle_style_rainbow">Rüzgar</string>
     <string name="nowplaying_circle_style_wave">Dalga</string>
@@ -1186,13 +1197,6 @@
     <string name="passport_wrong_vcode">Girdiğiniz kod hatalı</string>
     <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-    <string name="paused_by_app">Duraklatıldı</string>
-    <string name="paused_in_power_save_mode">Pil tasarrufu açıldığında duraklatıldı</string>
-    <string name="paused_insufficient_space">Bekleniyor</string>
-    <string name="paused_queued_for_wifi">Bağlantı bekleniyor</string>
-    <string name="paused_unknown">Duraklatıldı</string>
-    <string name="paused_waiting_for_network">Bağlantı bekleniyor</string>
-    <string name="paused_waiting_to_retry">Yeniden denemek için bekleniyor</string>
     <string name="pay_now">Mevcut hizmet</string>
     <string name="payment_success_message">Teşekkür ederiz! Ödemeniz başarıyla gerçekleştirildi. Gold hizmetlerinin tadını çıkartın.</string>
     <string name="payment_success_title">Tebrikler!</string>
@@ -1230,7 +1234,6 @@
     <string name="please_download_first">Bu şarkıyı zil sesi olarak kullanabilmek için cihazına indirmeniz gerekmektedir</string>
     <string name="please_select_song">Öncelikle bir şarkı seçin</string>
     <string name="pm">ÖS</string>
-    <string name="power_save_mode_dialog_msg">Pil tasarrufu açık. Şimdi indirmeye başlansın mı?</string>
     <string name="pre_watched">İzlenen</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
     <string name="preset_music_playlist">Mi Müzik çalma listesi</string>
@@ -1242,9 +1245,10 @@
     <string name="privacy_authorize_revoking">Yetki geri alınıyor…</string>
     <string name="privacy_desc">Gizlilik Politikası (zorunlu)</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
-    <string name="privacy_request_desc"><Data>"Mi Müzik'in çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Mi Müzik'in Gizlilik Politikasına verdiğiniz izni geri çekebilirsiniz.
-Mi Müzik'i kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.
-Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır."</Data></string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=tr_TR</string>
+    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
+Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
+If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Mi Müzik'e hoş geldiniz! Bu uygulama aşağıdaki hizmetleri destekler:
 - Yerel bir ses oynatıcı
 - Çevrim içi yayınlanan hizmetler"</string>
@@ -1257,18 +1261,16 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="pulluprefreshrecyclerview_loading_finished">Başarıyla yüklendi</string>
     <string name="pulluprefreshrecyclerview_loading_running">Yükleniyor…</string>
     <string name="queue_is_empty">Çalma sırası boş.</string>
-    <string name="read_and_agree_hungama_protocol"><Data>"&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Kullanıcı Sözleşmesi'ni&lt;/a>&lt;/font> ve &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum be kabul ettim"</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_protocol">Devam etmeden önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun ve kabul edin.</string>
     <string name="ready_to_play">Sıradaki</string>
     <string name="recently_played">Son oynatılanlar</string>
     <string name="recently_played_songs">En son</string>
     <string name="recommend_songs_when_playing_audio_files">Müzik dinliyorken şarkı önerileri al</string>
-    <string name="recommended_file_size_download_in_mobile">Bu dosyayı indirmek için %s mobil veri kullanılsın mı?</string>
-    <string name="recommended_no_file_size_download_in_mobile">Bu dosyayı indirmek için mobil veri bağlantısı kullanılsın mı?</string>
     <string name="remove">Kaldır</string>
-    <string name="remove_download">Kaldır</string>
     <string name="remove_user_privacy_dialog_message">"Anahtarı kapatarak Mi Müzik Gizlilik Politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Mi Müzik uygulamasının, temel hizmetleri sağlayabilmesi için gerekli kişisel bilgileri toplaması gerekir. Gizlilik politikasına verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir."</string>
     <string name="remove_user_privacy_dialog_message_canuse">"Anahtarı kapatarak Mi Müzik Gizlilik Politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Mi Müzik uygulamasının, çevrim içi yayın hizmetlerini sağlayabilmesi için gerekli kişisel bilgileri toplaması gerekir. Gizlilik politikasına verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan yukarıda bahsedilen çevrim içi hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir."</string>
     <string name="remove_user_privacy_dialog_title">İznin geri çekilmesi</string>
@@ -1279,9 +1281,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="request_share_info">Yalnızca bir sn…</string>
     <string name="request_subscription_status">Yalnızca bir sn…</string>
     <string name="restart_immediate">Yeniden başlat</string>
-    <string name="retry">Tekrar dene</string>
-    <string name="retry_after_network_available">Ağa bağlanılamıyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
-    <string name="retry_download">Tekrar dene</string>
+    <string name="retry">Yeniden dene</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Çevrim içi şarkılar hungama ile senkronize edilmeyecek</string>
     <string name="reward_received">VIP üyelik kazandınız!</string>
     <string name="ringtone_editing">Zil sesi düzenleyicisi</string>
@@ -1290,7 +1290,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="ringtones_play">Oynat</string>
     <string name="ringtones_stop">Durdur</string>
     <string name="ringtones_successful">Zil sesi başarıyla ayarlandı</string>
-    <string name="root_downloads">İndirilenler</string>
     <string name="s1">Resmi kaydet</string>
     <string name="s2">Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?</string>
     <string name="s3">Kabul et</string>
@@ -1326,7 +1325,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="see_more_videos">Daha fazla video</string>
     <string name="select">Seç</string>
     <string name="select_all">Tümünü seç</string>
-    <string name="select_clip_desc">Şarkının bir kısmını seçin</string>
+    <string name="select_clip_desc">Select a clip from the song</string>
     <string name="select_desc_sub">%d dile kadar seçebilirsiniz</string>
     <string name="select_device">Cihaz seçin</string>
     <string name="select_displayed_folders">Görüntülenecek klasörleri seçin</string>
@@ -1338,7 +1337,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="select_none">Tüm seçimleri kaldır</string>
     <string name="select_one_language">En az %d dil seçin</string>
     <string name="select_three_languages">%d dile kadar seçebilirsiniz</string>
-    <string name="selected_count">Toplam %2$d ögeden %1$d öge seçildi</string>
     <string name="send">Gönder</string>
     <string name="send_to_title">(%1$s) gönder</string>
     <string name="service_and_settings">Servis ve ayarlar</string>
@@ -1350,11 +1348,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="set_ringtones_successful">%s zil sesi olarak ayarlandı</string>
     <string name="setting_feature_setting">Özellik ayarları</string>
     <string name="settings">Ayarlar</string>
-    <string name="settings_search_key_notification">Müzik bildirimleri;Müzik;Bildirimler;şarkılar</string>
-    <string name="settings_search_path_advance">Sistem uygulamaları/Müzik/Hizmet ve ayarlar/Gelişmiş ayarlar</string>
-    <string name="settings_search_path_main">Sistem uygulamaları/Müzik</string>
-    <string name="settings_search_path_normal">Sistem uygulamaları/Müzik/Hizmet ve ayarlar</string>
-    <string name="settings_search_title_notification">Müzik bildirimleri</string>
     <string name="share_append_text">\@MIUI tarafından</string>
     <string name="share_chooser_title">Şunu kullanarak paylaş</string>
     <string name="share_description">Mi Müzik uygulamasından</string>
@@ -1367,7 +1360,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="shortcut_get">Görüntüle</string>
     <string name="shortcut_success">Başarıyla oluşturuldu. Ana ekranınızda görüntüleyin.</string>
     <string name="show_float_first_hint">Oynatıcıyı küçült</string>
-    <string name="show_more">%s adet daha görüntüle</string>
     <string name="shuffle_music">Karışık çal</string>
     <string name="shuffle_off_notif">Karışık mod kapalı.</string>
     <string name="shuffle_on_notif">Karışık mod açık.</string>
@@ -1384,6 +1376,32 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="sleep_mode_summary">Belirli bir zamanda oynatıcıyı durdur</string>
     <string name="sleep_mode_title">Uyku zamanlayıcı</string>
     <string name="sliding_pro_center">hungama Gold</string>
+    <string name="snow_ui_band_chart_hint">Başlatılmadı</string>
+    <string name="snow_ui_button_save">Kaydet</string>
+    <string name="snow_ui_croller_bass">Bas</string>
+    <string name="snow_ui_croller_virtualizer">Sürükleyici ses</string>
+    <string name="snow_ui_des_back">Geri</string>
+    <string name="snow_ui_des_drop_down">Seç</string>
+    <string name="snow_ui_equalizer_des">Ses efektlerini ayarlamadan önce kulaklıkları takın</string>
+    <string name="snow_ui_equalizer_launched">Yeni ekolayzere göz atın!</string>
+    <string name="snow_ui_equalizer_local">Ekolayzer</string>
+    <string name="snow_ui_equalizer_preset_classical">Klasik</string>
+    <string name="snow_ui_equalizer_preset_custom">Özel</string>
+    <string name="snow_ui_equalizer_preset_dance">Dans</string>
+    <string name="snow_ui_equalizer_preset_flat">Flat</string>
+    <string name="snow_ui_equalizer_preset_folk">Halk müziği</string>
+    <string name="snow_ui_equalizer_preset_heavy_metal">Heavy metal</string>
+    <string name="snow_ui_equalizer_preset_hip_hop">Hip-hop</string>
+    <string name="snow_ui_equalizer_preset_jazz">Caz</string>
+    <string name="snow_ui_equalizer_preset_normal">Normal</string>
+    <string name="snow_ui_equalizer_preset_pop">Pop</string>
+    <string name="snow_ui_equalizer_preset_rock">Rock</string>
+    <string name="snow_ui_recommended_sound_effects">Önerilen ön ayarlar</string>
+    <string name="snow_ui_resetting">Sıfırla</string>
+    <string name="snow_ui_sound_effect_adjustment">Manuel ayarlama</string>
+    <string name="snow_ui_sound_enhancement">Sesi geliştir</string>
+    <string name="snow_ui_title_equalizer">Ekolayzer</string>
+    <string name="snow_ui_toast_equalizer_not_enabled">Ekolayzer kapalı</string>
     <string name="song_already_in_playlist">Bu şarkı zaten çalma listesinde mevcut</string>
     <string name="song_exist_in_playlist">Bu şarkı zaten çalma sırasında</string>
     <string name="song_info">Şarkı ayrıntıları</string>
@@ -1402,14 +1420,12 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="sound_fade_in_and_out_when_change_song_automatically">Oynatma sırasında şarkıların geçişini deneyin</string>
     <string name="start_to_check_new_version">Güncellemeler kontrol ediliyor…</string>
     <string name="start_to_download">İndiriliyor…</string>
-    <string name="start_to_play">Çalmaya hazırlanıyor…</string>
+    <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">Yeni sürüm yükleniyor…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Çift uygulamalar için depolama</string>
-    <string name="storage_internal">Dahili depolama alanı</string>
-    <string name="storage_sd_card">SD kart</string>
     <string name="storage_space_permissions_for_display">Cihaz depolamasına erişmek: yerel dosyaları taramak, görüntülemek ve oynatmak için</string>
-    <string name="storage_usb">USB depolama</string>
-    <string name="streamloadingtext">%s sunucusuna bağlanılıyor</string>
+    <string name="streamloadingtext">Connecting to %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
@@ -1422,7 +1438,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="tab_artist">Sanatçılar</string>
     <string name="tab_artist_list">Sanatçılar</string>
     <string name="tab_chart">Listeler</string>
-    <string name="tab_flow">İzle</string>
+    <string name="tab_flow">Watch</string>
     <string name="tab_folder">Klasörler</string>
     <string name="tab_playlist">Çalma listeleri</string>
     <string name="tab_top_results">En iyi sonuçlar</string>
@@ -1450,9 +1466,9 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="talkback_pre">Önceki şarkı</string>
     <string name="talkback_search">Ara</string>
     <string name="talkback_show_navigation_draw">Çekmeceyi göster</string>
-    <string name="task_card_button_exchange">Kullan</string>
-    <string name="task_card_message_received_successfully">Bugünün görevlerini tamamladınız. Coinlerinizi şimdi kullanın!</string>
-    <string name="task_card_title_received_successfully">Başarıyla talep edildi</string>
+    <string name="task_card_button_exchange">Redeem</string>
+    <string name="task_card_message_received_successfully">"You've completed today's tasks. Redeem your coins now!"</string>
+    <string name="task_card_title_received_successfully">Claimed successfully</string>
     <string name="telephone_permissions_for_push">Arama izinleri: Google push bildirimi hizmetlerini sağlamak için</string>
     <string name="terms_of_service">Hizmet Şartları</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkıyönetim Kanunun Yıldönümü</string>
@@ -1495,7 +1511,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="the_united_nations_day">Birleşmiş Milletler günü</string>
     <string name="the_valentines_day">Sevgililer Günü</string>
     <string name="the_water_lantern_festival">Su Feneri Festivali</string>
-    <string name="thousand_char">%sK</string>
+    <string name="thousand_char">%s K</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Prş</string>
     <string name="thursday_shortest">Prş</string>
@@ -1508,6 +1524,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="tips_click_here_to_continue">Oynatmayı devam ettirmek için dokunun</string>
     <string name="title_online_fm_recommend">Öne çıkan FM</string>
     <string name="title_online_recommend">Öne çıkan çalma listeleri</string>
+    <string name="title_recently_played">Recently Played</string>
     <string name="title_search_history">Arama geçmişi</string>
     <string name="title_search_hot">Popüler</string>
     <string name="toast_cant_collect_mine_playlist">Kendi çalma listelerinizi favorilere ekleyemezsiniz</string>
@@ -1540,6 +1557,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="toast_will_play_list_when_ad_pause">Oynatma listesi reklamlardan sonra oynatılmaya başlanacak</string>
     <string name="toast_will_play_song_when_ad_pause">Bu şarkı reklamlardan sonra oynatılmaya başlanacak</string>
     <string name="today">Bugün</string>
+    <string name="today_hot_playlist">Bugünkü top çalma listeleri</string>
     <string name="tomorrow">Yarın</string>
     <string name="top_chart_title">Listeler</string>
     <string name="track_play_history_after_login">Oynatma geçmişini görüntülemek için oturum açın</string>
@@ -1571,7 +1589,7 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
     <string name="unlimited_downloads">Sınırsız indirme</string>
     <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
-    <string name="unlimited_skips">Sınırsız atlama</string>
+    <string name="unlimited_skips">Unlimited skips</string>
     <string name="update_now">ŞİMDİ GÜNCELLE</string>
     <string name="upgrade_music">Müzik uygulamasını güncelle</string>
     <string name="upgrade_music_message">Güncellemeler hazır. Güncellemek için yeniden başlatın.</string>
@@ -1584,10 +1602,11 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabı kullandığınız diğer cihazlarda onlara erişebilmek için çevrim içi şarkıları hungama ile senkronize edin.</string>
     <string name="upload_playlist_to_hungama_toast">Çevrim içi şarkılar hungama ile senkronize edilecek</string>
     <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-    <string name="user_experience_program_open">"Telif hakkı kısıtlamalarından dolayı, indirilen şarkıarı oynatabilmek içim Kullanıcı Deneyimi Programı'na kaydolmanız gerekir. Bunu Ayarlar > Şifreler &amp; Güvenlik > Gizlilik > Kullanıcı Deneyimi Programı'na kaydol menüsünden yapabilirsiniz."</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=tr_TR</string>
+    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">Çalma listeleri</string>
     <string name="user_privacy_dialog_negative_text">İptal</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Geri çek (%ssn.)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Geri çek</string>
     <string name="user_privacy_setting_group_title">İznin geri çekilmesi</string>
     <string name="user_privacy_setting_title">Anahtarı kapatarak Mi Müzik uygulamasının Gizlilik Politikasına verdiğiniz izni geri çekersiniz.</string>
@@ -1597,15 +1616,23 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="v7_preference_off">KAPALI</string>
     <string name="v7_preference_on">AÇIK</string>
     <string name="version_info">Sürüm</string>
+    <string name="video_dislike">Beğenme</string>
+    <string name="video_dislike_toast">Bu tür içerikleri daha az önereceğiz</string>
     <string name="video_loading_fail">Video yüklenemedi</string>
     <string name="video_play_cellular">"Cihazınız Wi-Fi'ye bağlı değil. Mobil veri kullanılsın mı?"</string>
     <string name="video_replay_btn">Tekrar oynat</string>
-    <string name="video_retry_btn">Tekrar dene</string>
+    <string name="video_report">Bildir</string>
+    <string name="video_report_reason_one">Çıplaklık veya cinsel içerik</string>
+    <string name="video_report_reason_three">Fiziksel şiddet veya tehdit</string>
+    <string name="video_report_reason_two">Şiddet suçu</string>
+    <string name="video_report_toast">Geri bildiriminiz için teşekkürler</string>
+    <string name="video_retry_btn">Yeniden dene</string>
     <string name="view_album">Albümü görüntüle</string>
     <string name="vip_required">Bu şarkıyı dinlemek için Premium Şarkı Paketi satın alın. Şarkı şimdilik atlandı.</string>
     <string name="vip_required_with_song">%s yalnızca Gold üyelerin kullanımına açıktır. Bu şarkı şimdilik atlandı.</string>
     <string name="voice_search_first_hint">Sesli aramayı deneyin!</string>
     <string name="watch_video">Video izle</string>
+    <string name="watermark_label_prefix">AdMob -</string>
     <string name="web_reward_dialog_cancle"> İptal</string>
     <string name="web_reward_dialog_ok">Çıkış</string>
     <string name="wednesday">Çarşamba</string>
@@ -1622,10 +1649,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
     <string name="whitelist_entrance_text_1">"Şarkıyı bulamıyor musunuz? "</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">Dosya istisnaları</string>
-    <string name="wifi_required_body" formatted="false">"Bu %s boyutundaki indirme işlemini tamamlamak için bir Wi-Fi ağına bağlanın. 
-
-Bu işlemi bir Wi-Fi ağına bağlandığınızda başlatmak için, %s seçeneğine dokunun."</string>
-    <string name="wifi_required_title">Bu dosyayı indirmek için bir Wi-Fi ağına bağlanmalısınız</string>
     <string name="yandex_ads_internal_after_timer_value">saniye kadar</string>
     <string name="yandex_ads_internal_before_timer_value">Ödül</string>
     <string name="yandex_ads_internal_go">Git</string>
@@ -1678,5 +1701,6 @@ Bu işlemi bir Wi-Fi ağına bağlandığınızda başlatmak için, %s seçeneğ
     <string name="youtube_tab_popular">Popüler</string>
     <string name="youtube_tab_radar">Radar</string>
     <string name="youtube_tab_shorts">Shorts</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Yükselenler</string>
 </resources>

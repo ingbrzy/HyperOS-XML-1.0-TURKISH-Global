@@ -316,4 +316,8 @@
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
     </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Geçen hafta Mi Tarayıcı yükleme hızını sizin için %d kez artırdı!</item>
+        <item quantity="one">Geçen hafta Mi Tarayıcı yükleme hızını sizin için %d kez artırdı!</item>
+    </plurals>
 </resources>

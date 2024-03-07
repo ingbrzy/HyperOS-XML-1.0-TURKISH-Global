@@ -206,11 +206,13 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_item_view_role_description">Sekme</string>
     <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
@@ -269,6 +271,7 @@
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -338,8 +341,8 @@ Nasıl izin verilir
     <string name="permission_desc">İzin ayrıntıları</string>
     <string name="permission_dialog_cancel">İptal</string>
     <string name="permission_dialog_ok">Ayarlar</string>
-    <string name="permission_notification_description">İçeriği kaydederken, oynatırken ve indirirken uyarı göndermek için</string>
-    <string name="permission_notification_dialog_description">Uygulamanın mevcut durumu hakkında uyarı göndermek için</string>
+    <string name="permission_notification_description">Bu uygulamanın, içerik kaydederken, oynatırken ve indirirken uyarılar gönderebilmesi için bildirimler göndermek üzere izne ihtiyacı vardır.</string>
+    <string name="permission_notification_dialog_description">Bu uygulamanın, uygulamanın mevcut durumunda uyarılar gönderebilmesi için bildirimleri göndermek üzere izne ihtiyacı vardır.</string>
     <string name="permission_notification_title">İzin gerekli</string>
     <string name="permission_read_phone_state">Cihaz bilgisine eriş</string>
     <string name="permission_read_phone_state_description">Arama geldiğinde kaydı otomatik durdurmak için arama durumuna erişmek için</string>
@@ -556,6 +559,7 @@ Nasıl izin verilir
     <string name="toast_enter_silent_mode">Kaydediliyor. Sessiz mod açık.</string>
     <string name="toast_exit_silent_mode">Kayıt bitti. Sessiz mod kapalı.</string>
     <string name="toast_max_record_time">%1$s, %2$s dakika civarı kayıt yapabilir</string>
+    <string name="toast_stop">Kayıt bitti</string>
     <string name="toast_uninstall_fileexplorer">Dosya Yöneticisi yüklü değil</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>

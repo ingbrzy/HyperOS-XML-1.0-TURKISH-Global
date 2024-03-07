@@ -438,6 +438,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">İlk alan</string>
     <string name="other_device_second_space">İkinci alan</string>
     <string name="page_title_more_backup_options">Ek yedekleme hizmetleri</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Ögeler PC modunda geri yüklenemez. PC modunu kapatın ve tekrar deneyin.</string>
     <string name="permission_to_use">İzin ayrıntıları</string>
     <string name="pm">ÖS</string>
@@ -449,6 +451,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">Bağlanılamıyor</string>
     <string name="provision_next">İleri</string>
     <string name="provision_restore_data">Ögeler geri yükleniyor</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Atla</string>
     <string name="query_restore_description">Ana ekran düzeninizi ve ayarları geri yüklerseniz, zaten yüklü olan uygulamalar Ana ekrandaki orijinal konumlarına geri yüklenecektir. Bu yedeklemenin bir parçası olmayan uygulamalar, Ana ekranın son sayfasına taşınacaktır.</string>
     <string name="query_restore_summary">Bu cihaz için bir Xiaomi Cloud yedeği bulundu. Ana ekran uygulamalarını ve ayarlarını geri yükle veya eski Xiaomi Cloud yedeklerini silerek cihazı yeni bir cihaz olarak kullan?</string>

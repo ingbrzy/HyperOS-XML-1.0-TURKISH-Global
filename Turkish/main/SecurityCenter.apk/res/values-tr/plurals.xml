@@ -501,8 +501,8 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="one">"%d artık APK'yı sil"</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d pil kullanım sorunu</item>
-        <item quantity="one">%d pil kullanım sorunu</item>
+        <item quantity="other">Yüksek güç tüketimine sahip %d öge</item>
+        <item quantity="one">Yüksek güç tüketimine sahip %d öge</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Pil tasarrufu için %d ögeyi optimize et</item>
@@ -653,8 +653,8 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="one">kez</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d pil kullanım sorunu</item>
-        <item quantity="one">%d pil kullanım sorunu</item>
+        <item quantity="other">Yüksek güç tüketimine sahip %d öge</item>
+        <item quantity="one">Yüksek güç tüketimine sahip %d öge</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d gün "</item>
@@ -685,8 +685,8 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="one">%d pil kullanım sorununu onar</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">%d pil kullanım sorunu onarılabilir</item>
-        <item quantity="one">%d pil kullanım sorunu onarılabilir</item>
+        <item quantity="other">%d öge için güç tüketimini optimize edebilirsiniz</item>
+        <item quantity="one">%d öge için güç tüketimini optimize edebilirsiniz</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d öge optimize edilebilir"</item>
@@ -739,6 +739,10 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Ekran süresine %s dk. eklemek için açın</item>
         <item quantity="one">Ekran süresine %s dk. eklemek için açın</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Anladım (%d)</item>
+        <item quantity="one">Anladım (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Anladım (%dsn.)</item>
@@ -833,8 +837,8 @@ Ses değiştirici'yi şimdi deneyin!"</item>
         <item quantity="one">%d pil sorunu bulundu, onarın</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d pil sorunu çözüldü</item>
-        <item quantity="one">%d pil sorunu çözüldü</item>
+        <item quantity="other">Yüksek güç tüketimine sahip %d öge optimize edildi</item>
+        <item quantity="one">Yüksek güç tüketimine sahip %d öge optimize edildi</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Fabrika ayarlarına geri dön (%dsn)</item>
@@ -919,6 +923,10 @@ Ses değiştirici'yi şimdi deneyin!"</item>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virüs temizlendi</item>
         <item quantity="one">%d virüs temizlendi</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virüs veya riskli uygulama</item>
+        <item quantity="one">%d virüs veya riskli uygulama</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d uygulama</item>

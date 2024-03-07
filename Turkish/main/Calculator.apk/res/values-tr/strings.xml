@@ -76,7 +76,7 @@
     <string name="currency_update_time_format">Kur verileri WeBull (%s) tarafından sağlanmaktadır</string>
     <string name="currency_update_updating">Oranlar güncelleniyor…</string>
     <string name="data_analysis">Analiz</string>
-    <string name="date_format">dd/MM/yyyy</string>
+    <string name="date_format">dd MMM yyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -185,7 +185,7 @@
     <string name="friday_shortest">Cum</string>
     <string name="fund_loan">Fon kredisi</string>
     <string name="further_education">İleri eğitim</string>
-    <string name="get_loaction_permission_title">Konum belirle</string>
+    <string name="get_loaction_permission_title">Konuma eriş</string>
     <string name="get_location_fail_prompt">Konum alınamadı</string>
     <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
@@ -232,11 +232,12 @@
     <string name="label_days">Gün</string>
     <string name="label_emi">Aylık Eşit Taksit</string>
     <string name="label_from_date">Başlangıç</string>
-    <string name="label_interest">Faiz (%)</string>
+    <string name="label_interest">Faiz (yüzde)</string>
     <string name="label_investment_duration">Süre</string>
     <string name="label_months">Ay</string>
     <string name="label_powered_by">Mi Hesaplayıcı tarafından desteklenmektedir</string>
     <string name="label_principal">Ana para</string>
+    <string name="label_share">Paylaş</string>
     <string name="label_statistics">İstatistikler</string>
     <string name="label_to_date">Bitiş</string>
     <string name="label_total_interest">Toplam faiz</string>
@@ -356,13 +357,13 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="mt_max">Girdiğiniz miktar çok büyük</string>
     <string name="mulDesc">çarpma</string>
     <string name="n_a">N/A</string>
-    <string name="name_cgst">CGST/SGST: %%s</string>
+    <string name="name_cgst">CGST/SGST: 2.5</string>
     <string name="name_discount">İndirim (% indirim)</string>
     <string name="name_original">Orijinal fiyat</string>
     <string name="name_price">Son fiyat</string>
     <string name="name_save">"Biriktirdiğiniz  "</string>
     <string name="negDesc">Sıfırın altında ve üstündeki sıcaklıklarda değiştir</string>
-    <string name="new_privacy_string">"&lt;Data>Hesaplayıcı'ya hoş geldiniz!&lt;br/>Bu uygulama aşağıdakileri içerir:&lt;br/>• Temel hesaplayıcı&lt;br/>• Bilimsel hesaplayıcı&lt;br/>•Evrensel dönüştürücü (ör. para birimi, ölçüm birimleri, vb.)&lt;br/>• Kredi, yatırım, EMI ve daha fazlası için hesaplama şablonları&lt;br/>Topladığımız bilgileri nasıl işlediğimizi &lt;a href=\"%1$s\">Gizlilik Politikası'nda&lt;/a> öğrenebilirsiniz. Hesaplayıcı'yı kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. İstediğiniz zaman Ayarlar menüsünden Hesaplayıcı'nın Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz. Gizlilik Politikamızı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hala kullanılabilir olacaktır.&lt;/Data>"</string>
+    <string name="new_privacy_string"><Data>"Hesaplayıcı'ya hoş geldiniz!&lt;br/>Bu uygulama aşağıdakileri içerir:&lt;br/>• Temel hesaplayıcı&lt;br/>• Bilimsel hesaplayıcı&lt;br/>•Evrensel dönüştürücü (ör. para birimi, ölçüm birimleri, vb.)&lt;br/>• Kredi, yatırım, EMI ve daha fazlası için hesaplama şablonları&lt;br/>Topladığımız bilgileri nasıl işlediğimizi &lt;a href=\"%1$s\">Gizlilik Politikası'nda&lt;/a> öğrenebilirsiniz. Hesaplayıcı'yı kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%3$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. İstediğiniz zaman Ayarlar menüsünden Hesaplayıcı'nın Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz. Gizlilik Politikamızı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hala kullanılabilir olacaktır."</Data></string>
     <string name="night">Akşam</string>
     <string name="none">Hiçbiri</string>
     <string name="noon">Gün ortası</string>
@@ -376,7 +377,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="permission_location_miui12">Konuma erişme</string>
     <string name="permission_option_desc_miui12">Ek özellikleri kullandığınızda bu izinler gereklidir.</string>
     <string name="permission_option_miui12">İsteğe bağlı izinler</string>
-    <string name="permission_privacy_link">&lt;Data>Bu uygulamayı kullanmadan önce, &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okuyun ve kabul edin.&lt;/Data></string>
+    <string name="permission_privacy_link"><Data>Bu uygulamayı kullanmadan önce, &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okuyun ve kabul edin.</Data></string>
     <string name="permission_purpose_miui12_system">"Hesaplayıcı'ya hoş geldiniz! Bu uygulama birden fazla dönüştürücü ve yaşam tarzı özellikleri ile düzenli hesaplayıcının özelliklerini birleştirir."</string>
     <string name="permission_remove_desc_miui12">Bu uygulamanın internete bağlanmasına ve tüm özelliklerini kullanabilmesi için isteğe bağlı izinler vermesine izin ver.</string>
     <string name="permission_title_miui12">Uyarı</string>
@@ -408,7 +409,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="preference_use_voice_title">Konuşma çıktısı</string>
     <string name="preference_user_feedback_title">Geribildirim</string>
     <string name="preference_view_privacy_title">Gizlilik Politikasını görüntüle</string>
-    <string name="privacy_dialog_title">Uyarı</string>
+    <string name="privacy_dialog_title">Gizlilik</string>
     <string name="privacy_revoke_error">Geri çekilemedi. Tekrar deneyin.</string>
     <string name="privacy_revoke_progress">Geri çekiliyor…</string>
     <string name="privacy_switch">İznin geri çekilmesi</string>
@@ -428,7 +429,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="search_menu_title">Ara</string>
     <string name="secondFunctionDesc">İkinci işleve geç</string>
     <string name="send">Gönder</string>
-    <string name="settingsDesc">ayarlar</string>
+    <string name="settingsDesc">Ayarlar</string>
     <string name="sinDesc">sinüs</string>
     <string name="sqrtDesc">kare kök</string>
     <string name="statistic_label_balance">Bakiye</string>
@@ -573,6 +574,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="unit_data_display_currency_btn">Butan ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botsvana Pulası</string>
     <string name="unit_data_display_currency_byn">Beyaz Rusya rublesi</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanada doları</string>
     <string name="unit_data_display_currency_cdf">Kongo Frangı</string>
     <string name="unit_data_display_currency_chf">İsviçre frangı</string>
@@ -767,7 +769,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="unit_data_short_area_sq.in">in²</string>
     <string name="unit_data_short_area_sq.km">km²</string>
     <string name="unit_data_short_area_sq.m">m²</string>
-    <string name="unit_data_short_area_sq.mi">mile²</string>
+    <string name="unit_data_short_area_sq.mi">mil²</string>
     <string name="unit_data_short_area_sq.mm">mm²</string>
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
@@ -822,11 +824,11 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="unit_data_short_velocity_c">c</string>
     <string name="unit_data_short_velocity_ftps">fps</string>
     <string name="unit_data_short_velocity_inps">ips</string>
-    <string name="unit_data_short_velocity_kmph">km/h</string>
+    <string name="unit_data_short_velocity_kmph">km/sa.</string>
     <string name="unit_data_short_velocity_kmps">km/s</string>
     <string name="unit_data_short_velocity_mach">Ma</string>
     <string name="unit_data_short_velocity_mileph">mph</string>
-    <string name="unit_data_short_velocity_mps">m/s</string>
+    <string name="unit_data_short_velocity_mps">m/sn.</string>
     <string name="unit_data_short_velocity_nmiph">kn</string>
     <string name="unit_data_short_volume_cl">cl</string>
     <string name="unit_data_short_volume_cu.af">af³</string>
@@ -858,7 +860,7 @@ Bir yıllık ve beş yıllık Kredi Faiz Oranları, her ayın 20'sinde (banka ta
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Tayvan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

@@ -10,6 +10,7 @@
     <string name="download_queued">Sıraya alındı</string>
     <string name="download_remaining">%s kaldı</string>
     <string name="download_running">İndiriliyor</string>
+    <string name="download_running_percent">İndiriliyor %s</string>
     <string name="download_unknown_title">&lt;Başlıksız></string>
     <string name="notif_title_file_size">Toplam %1$d</string>
     <string name="notif_title_single_downloading">İndiriliyor: %1$s</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">İndirilenlere erişim.</string>
     <string name="permlab_downloadManagerAdvanced">İndirilenler uygulamasının gelişmiş özellikleri.</string>
     <string name="permlab_downloadWithoutNotification">Dosyaları bildirim göndermeden indirme</string>
-    <string name="permlab_seeAllExternal">USB depolama alanındaki tüm indirmeleri görüntüleme</string>
     <string name="root_downloads">İndirilenler</string>
     <string name="wifi_recommended_body">"%1$s indirmeye başlamak bataryanızın azalmasına ve/veya yüksek miktarda mobil veri kullanıma neden olabilir.
 

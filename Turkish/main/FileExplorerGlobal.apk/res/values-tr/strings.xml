@@ -214,6 +214,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
     <string name="decompress_destination_error">Dosyalar bu konuma çıkartılamıyor.</string>
     <string name="decompress_encrypted_rar_not_supported">Şifreli rar dosyaları desteklenmemektedir.</string>
     <string name="decompress_fail">Çıkartılamadı.</string>
+    <string name="decompress_fail_contains_special_characters">Sıkıştırılamıyor. Sıkıştırılmış dosya adları özel karakterler içeremez.</string>
     <string name="decompress_input_password">Şifre girin</string>
     <string name="decompress_password_error">Girmiş olduğunuz şifre hatalı.</string>
     <string name="decompress_success">Çıkartma işlemi tamamlandı</string>
@@ -645,6 +646,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
     <string name="operation_decompressing">Çıkartılıyor…</string>
     <string name="operation_del_fav">Favorilerden kaldırılıyor…</string>
     <string name="operation_delete">Sil</string>
+    <string name="operation_delete_confirm_dcim_message_folder">"DCIM bir Galeri klasörüdür. Bu klasörü silerseniz içindeki tüm ögeler de Galeri'den kalıcı olarak silinecektir. Bu klasör yine de silinsin mi?"</string>
     <string name="operation_delete_confirm_message">Sil?</string>
     <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir.
 "</string>
@@ -763,10 +765,10 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
     <string name="privacy_experience_statement">Ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için kullanıcı verilerini bizimle paylaşmak için Kullanıcı Deneyimi Programımıza katılın.</string>
     <string name="privacy_item1">Son kullanılan ögeleri kategorize etme</string>
     <string name="privacy_item2">Dosyaları görüntüleme ve düzenleme</string>
-    <string name="privacy_message">"&lt;Data>Dosya Yöneticisi'nin, kullanım istatistikleri oluşturan temel hizmetleri size sağlayabilmesi için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Dosya Yöneticisi'ni kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. İstediğiniz zaman Ayarlar menüsünden Dosya Yöneticisi'nin Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz. Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır.&lt;/Data>"</string>
+    <string name="privacy_message"><Data>"Dosya Yöneticisi'nin, kullanım istatistikleri oluşturan temel hizmetleri size sağlayabilmesi için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Dosya Yöneticisi'ni kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin. İstediğiniz zaman Ayarlar menüsünden Dosya Yöneticisi'nin Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz. Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır."</Data></string>
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="privacy_policy_renew">Güncellenen Gizlilik Politikası</string>
-    <string name="privacy_policy_renew_content">"&lt;Data>Dosya Yöneticisi'nin &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, devam etmeden önce Gizlilik Politikası'nın yeni sürümünü okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="privacy_policy_renew_content"><Data>"Dosya Yöneticisi'nin &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için, devam etmeden önce Gizlilik Politikası'nın yeni sürümünü okuyun ve kabul edin."</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">"İzni geri çekebilmek için Mi Drive'daki tüm ögeleri temizleyin. Ögeleri temizlemek için aşağıdaki adımları takip edin:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. ''Tümünü seç'' tuşunu görünür yapmak için Mi Drive başlangıç sayfasında bir ögeye basılı tutun. Tek seferde 200 dosyayı silmek için bu tuşu seçin ve ögeleri silin.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Sonrasında, son silinen ögelerinizi temizleyin."</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Silmeden önce ögelerinizi yedeklemenizi öneririz. Bunu yapmak için, i.mi.com adresini ziyaret edin, Mi Drive'a tıklayın ve ögelerinizi bir bilgisayara indirin.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Son silinen ögelerin, silme işleminden sonra geri yüklenemeyeceğini unutmayın."</string>
     <string name="privacy_recall_confirm_button">Geri çek</string>
@@ -873,6 +875,7 @@ Dosyaları cihazınızdan Mi Drive'a taşımayı deneyin."</string>
     <string name="set_pattern">Şifrenizi yükseltin</string>
     <string name="set_pattern_btn">Ayarla</string>
     <string name="set_pattern_msg">Şifrenizi yeniden belirleyin. Gizlilik koruma şifresi aynı zamanda fotoğraf, mesajlar ve notlar için de geçerlidir.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">"%d KB'den küçük"</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>

@@ -862,6 +862,7 @@ Altıncı nesil standardı destekleyen %s GHz Wi-Fi ağlarına bağlanmanızı �
     <string name="edit_temple">Şakak</string>
     <string name="edit_touch_up">Makyaj</string>
     <string name="emoticon">Çıkartma paketi</string>
+    <string name="empty" />
     <string name="eras_ad">M.S.</string>
     <string name="eras_bc">M.Ö.</string>
     <string name="error_fail_to_start_audio_capture">Ses kaydı başlatılamadı</string>
@@ -1592,6 +1593,7 @@ Arka planı bulanıklaştırırken, nesneyi netleştirin."</string>
     <string name="pref_camera_auxiliary_close">Kapalı</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Pozlama doğrulama</string>
     <string name="pref_camera_auxiliary_focus_peak">Odaklama yardımcısı</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Yüksek</string>
     <string name="pref_camera_beautify_entry_low">Düşük</string>
     <string name="pref_camera_beautify_entry_normal">Orta</string>
