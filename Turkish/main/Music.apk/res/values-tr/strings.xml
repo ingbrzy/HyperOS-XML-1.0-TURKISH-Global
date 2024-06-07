@@ -384,7 +384,6 @@ Tüm verileri kalıcı olarak silmeyi seçerseniz uygulamadan çıkış yapacaks
     <string name="download_method">İndir</string>
     <string name="download_paused_in_power_save_mode">İndirme işlemleri Pil Tasarrufu modu açık olduğunda duraklatılır</string>
     <string name="download_processing">İndiriliyor…</string>
-    <string name="download_progress">%%%d</string>
     <string name="download_quality">İndirme kalitesi</string>
     <string name="download_quality_summary">İndirdiğiniz şarkılar için ek ayarlar</string>
     <string name="download_song_quality_title">İndirilen şarkıların kalitesi</string>
@@ -480,9 +479,7 @@ Tüm verileri kalıcı olarak silmeyi seçerseniz uygulamadan çıkış yapacaks
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
     <string name="exo_media_action_repeat_off_description">Hiçbirini tekrarlama</string>
     <string name="exo_media_action_repeat_one_description">Bir şarkıyı tekrarla</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatif</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Anlatım</string>
@@ -943,7 +940,6 @@ Tüm verileri kalıcı olarak silmeyi seçerseniz uygulamadan çıkış yapacaks
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -1310,7 +1306,6 @@ Tüm verileri kalıcı olarak silmeyi seçerseniz uygulamadan çıkış yapacaks
     <string name="privacy_desc">Gizlilik Politikası (zorunlu)</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
     <string name="privacy_policy_title_asm">Müzik dünyası parmaklarınızın ucunda</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=tr_TR</string>
     <string name="privacy_request_desc"><Data>"Mi Müzik'in çevrim içi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. &lt;a href=\"%1$s\">Gizlilik Politikamızda&lt;/a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman Ayarlar menüsünden Mi Müzik'in Gizlilik Politikası'na verdiğiniz izni geri çekebilirsiniz.
 Mi Müzik'i kullanmadan önce &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.
 Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız; ancak temel işlevler hâlâ kullanılabilir olacaktır."</Data></string>
@@ -1487,7 +1482,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="start_to_download">İndiriliyor…</string>
     <string name="start_to_play">Çalmaya hazırlanıyor…</string>
     <string name="start_update">Yeni sürüm yükleniyor…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Çift uygulamalar için depolama</string>
     <string name="storage_space_permissions_for_display">Cihaz depolamasına erişmek: yerel dosyaları taramak, görüntülemek ve oynatmak için</string>
     <string name="streamloadingtext">%s bağlanılıyor</string>
@@ -1668,7 +1662,6 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabı kullandığınız diğer cihazlarda onlara erişebilmek için çevrim içi şarkıları hungama ile senkronize edin.</string>
     <string name="upload_playlist_to_hungama_toast">Çevrim içi şarkılar hungama ile senkronize edilecek</string>
     <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=tr_TR</string>
     <string name="user_experience_program_open">"Telif hakkı kısıtlamalarından dolayı, indirilen şarkıları oynatabilmek içim Kullanıcı Deneyimi Programı'na kaydolmanız gerekir. Bunu Ayarlar > Şifreler &amp; Güvenlik > Gizlilik > Kullanıcı Deneyimi Programı'na kaydol menüsünden yapabilirsiniz."</string>
     <string name="user_playlist_plaza">Çalma listeleri</string>
     <string name="user_privacy_dialog_negative_text">İptal</string>

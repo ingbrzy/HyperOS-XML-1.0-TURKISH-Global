@@ -942,7 +942,6 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin!"</string>
     <string name="face_name_edit">Düzenle</string>
     <string name="face_name_input">İsim girin</string>
     <string name="face_recommend">Öneriler</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">İşlem tamamlanamadı</string>
     <string name="fail_reason_migrate">Ögeler işleniyor…Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="fail_to_pick_email">Geçersiz e-posta adresi</string>
@@ -958,7 +957,6 @@ mevcut"</string>
     <string name="feedback_my_reports">Geri bildirim</string>
     <string name="feedback_problem">Hata bildir</string>
     <string name="feedback_suggest">Bir öneri gönderin</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="finish_create_baby_album_toast">"Xiaomi Cloud'da \"%s\" için albüm oluşturuldu"</string>
     <string name="finish_fill_baby">Oluştur</string>
     <string name="first_delete_media_for_cloud">"Boş bir cloud depolama planınız yok ise, seçili ögeler cloud'tan ve tüm senkronize edilen cihazlardan son silinen ögelere taşınacak ve %d gün sonra kalıcı olarak silinecektir. Yine de silinsin mi?"</string>
@@ -1068,7 +1066,6 @@ mevcut"</string>
     <string name="grant_permission_go_and_set">Ayarlar</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
     <string name="grant_permission_go_and_set_3">Ayarlar</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">İzin gerekli</string>
     <string name="grant_permission_manage_storage_unlock">Cihaz kilidini açın ve bu uygulamanın ögeleri görüntüleyebilmesi için tüm dosyalara erişmesine izin verin.</string>
     <string name="grant_permission_shortcut">Öncelikle bu uygulamaya Ana ekran kısayolu oluşturma izni verin.</string>
@@ -1750,7 +1747,6 @@ Bu özelliği ilk kez kullanıyorsanız kod dönüştürme biraz zaman alabilir.
     <string name="people_page_label">Kişiler</string>
     <string name="people_page_photo">Bir kişinin küçük resmi</string>
     <string name="people_page_unname">Adsız</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Oturum açmak ve sistem hesabını yönetmek için</string>
     <string name="permission_account_name">Hesaplara eriş</string>
     <string name="permission_clipboard_desc">Erişmek ve ögeleri panoya kaydetmek için</string>
@@ -2156,7 +2152,6 @@ Bu özelliği ilk kez kullanıyorsanız kod dönüştürme biraz zaman alabilir.
     <string name="share_album_cancel_share">Paylaşmayı durdur</string>
     <string name="share_album_change_background">Arka plan fotoğrafını değiştir</string>
     <string name="share_album_create_failed">Paylaşılan albüm oluşturulamadı</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Paylaşmayı durdur</string>
     <string name="share_album_exit_confirm">Devam ederseniz bu albümdeki hiçbir ögeye artık erişemeyeceksiniz. Ayrılmadan önce tüm önemli ögeleri kaydedin.</string>
     <string name="share_album_exit_confirm_title">Bu gruptan ayrılınsın mı?</string>
@@ -2243,7 +2238,6 @@ Bu özelliği ilk kez kullanıyorsanız kod dönüştürme biraz zaman alabilir.
     <string name="share_with_family">Aile ile paylaş</string>
     <string name="sharer_quota_fulfiled">Bu albümü mümkün olan en fazla sayıdaki kullanıcı ile paylaştınız.</string>
     <string name="show_cloud_albumlist_summary">"Senkronizasyonu kapattıktan sonra seçili albümlerdeki yeni ögeler cloud'a yüklenmeyecektir."</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Gizli albümleri görüntüle ve yönet</string>
     <string name="show_hidden_album_title">Gizli albümleri göster</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">"Başarıyla kaldırıldı. Bu ögeyi şimdi ''Albümler'' arasında görüntüleyebilirsiniz."</string>

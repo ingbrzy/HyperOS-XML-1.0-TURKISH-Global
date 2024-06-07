@@ -386,7 +386,6 @@ Lütfen internet mesajlaşma işlevinin bir sonraki bildirime kadar askıya alı
     <string name="file_size">Boyut:</string>
     <string name="file_title">İsim:</string>
     <string name="file_width_height">Boyut:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Uçuş</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1214,7 +1213,6 @@ Mobil veriyi açın ve bu sayfayı tekrar açın."</string>
     <string name="send_signature_confirm_dialog_title">Mesaj gönder</string>
     <string name="send_sms">Mesaj gönder</string>
     <string name="send_to">Kime:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Gönderilme zamanı: %1s</string>
     <string name="sent_label">"Gönderildi: "</string>
     <string name="service_abandon_alert">Uyarı</string>
