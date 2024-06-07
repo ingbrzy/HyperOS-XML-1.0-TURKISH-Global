@@ -271,7 +271,7 @@
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
     <string name="failed_to_drop_widget_invalid">Araç geçersiz</string>
-    <string name="find_app_by_color">Uygulamaları daha hızlı bulabilmek için simgeleri renklerine göre gruplayın</string>
+    <string name="find_app_by_color">Uygulamaları daha hızlı bulabilmek için simgeleri renklerine göre gruplandırın</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Ara</string>
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="global_search">Ara</string>
+    <string name="global_shelf">Uygulama bulucu</string>
     <string name="got_it_botton">Anladım</string>
     <string name="guide_install_app_msg">Bu uygulama cihazınızda yüklü değil. Uygulama şimdi bulunup yüklensin mi?</string>
     <string name="guide_install_app_title">Uygulama bulunup yüklensin mi?</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Hizmet Şartları</string>
     <string name="home_gesture_content_center">İçerik merkezi</string>
     <string name="home_gesture_global_search">Ara</string>
+    <string name="home_gesture_global_shelf">Uygulama bulucu</string>
     <string name="home_gesture_no_action">Yok</string>
     <string name="home_gesture_notification_and_control_center">Bildirim çubuğu ve Kontrol merkezi</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
@@ -378,7 +380,7 @@
     <string name="international_home_pull_down_sub_content">"Bu hareketi bunun yerine Ayarlar > Ana ekran > Ana ekranda aşağı kaydır menüsünde Kontrol merkezi'ni açmak için değiştirebilirsiniz."</string>
     <string name="international_home_pull_down_up_btn_get">Anladım</string>
     <string name="international_home_pull_up_content">"İçerik Merkezi'ni açmak için Ana ekranda yukarı doğru kaydırın."</string>
-    <string name="international_home_pull_up_sub_content">Aramayı açmak için Ana ekranınızın ortasından aşağı kaydırın.</string>
+    <string name="international_home_pull_up_sub_content">Uygulamaları ve uygulama önerilerini bulmak için Ana ekranınızın ortasından aşağı kaydırın.</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="jeejen_description">"Daha büyük kullanıcı arayüzü ögeleri.
 Daha erişilebilir arama.
@@ -431,7 +433,7 @@ Arttırılmış güvenlik."</string>
     <string name="menu_auto_fill_of_uninstall">Kaldırılan uygulamalardan arta kalan hücreleri doldur</string>
     <string name="menu_back_desktop">Ana ekrana dön</string>
     <string name="menu_cell_setting">Ana ekran düzeni</string>
-    <string name="menu_default_screen_preview">Varsayılan ekran ayarla</string>
+    <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
     <string name="menu_finish">Tamamlandı</string>
     <string name="menu_lock">Ana ekran düzenini kilitle</string>
     <string name="menu_more">Daha fazla</string>
@@ -443,7 +445,7 @@ Arttırılmış güvenlik."</string>
     <string name="mi_wallpaper">MIUI Temaları</string>
     <string name="midnight">Gece</string>
     <string name="minus_one_screen">Uygulama kasası</string>
-    <string name="miui_screen_config_title">Ana ekran ayarları</string>
+    <string name="miui_screen_config_title">Ana ekran düzeni</string>
     <string name="miui_setting_config_title">Ana ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Değiştir</string>
     <string name="miui_widget_toast_for_not_support_by_pa">Uygulama kasası, bu boyuttaki araçları desteklemez</string>
@@ -519,6 +521,7 @@ Arttırılmış güvenlik."</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -648,8 +651,9 @@ Arttırılmış güvenlik."</string>
     <string name="recent_menu_item_info">Bilgi</string>
     <string name="recent_menu_item_lock">Kilitle</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">Uygulama görevlerini aktar</string>
+    <string name="recent_menu_item_worldcirculate_disable">Uygulama görevleri bağlı cihazlar arasında aktarılamıyor</string>
+    <string name="recent_pin_text">İğnele</string>
     <string name="recents_app_info_button_label">Uygulama bilgisi</string>
     <string name="recents_config_title">Son kullanılanlar</string>
     <string name="recents_dimiss_task">Temizle</string>
@@ -731,6 +735,7 @@ Arttırılmış güvenlik."</string>
     <string name="small_window">Kayan pencere</string>
     <string name="start_activity_failed">Başlatıcı başlatılamıyor</string>
     <string name="start_new_window">Yeni pencere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s/%2$s kullanılabilir</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@ Arttırılmış güvenlik."</string>
     <string name="switch_personal_assistant_app_vault">Uygulama kasası</string>
     <string name="switch_personal_assistant_google">Google Keşfet</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
+    <string name="switch_personal_assistant_summary">"Google Keşfet'i açmak için Ana ekranda sağa kaydırın"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve Menü tuşlarının yerini değiştir</string>
+    <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı. Önce etkinleştirin."</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>

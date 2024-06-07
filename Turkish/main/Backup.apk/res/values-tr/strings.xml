@@ -206,6 +206,7 @@ https://appleid.apple.com/#!&amp;page=&amp;page=signin"</string>
     <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramayacaksınız. Mi Taşıyıcıyı kullanmadan önce yedekleme şifresini devre dışı bırakın.</string>
     <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken ögeler geri yüklenemiyor. Önce şifreyi devre dışı bırakın.</string>
     <string name="dialog_backup_password_to_settings">Ayarlar</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Şifreleme</string>
     <string name="disable_encrypt_title">Şifrelemeyi kapat</string>
@@ -368,6 +369,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın."</string>
     <string name="import_data_from_icloud">iCloud alanından veri aktar</string>
     <string name="import_from_xiaomi_account_hint2">Halihazırda bir yedeğiniz varsa ileri tuşuna dokunun.</string>
     <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Uyumluluk sorunlarından dolayı, iOS cihazlarından yalnızca kısmi veri aktarabilirsiniz. Aktarım işlemine başlamadan önce bir iCloud yedeği almış olduğunuzdan emin olun.</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="lack_perm_msg">Mi Taşıyıcı belirtilen izinlere ihtiyaç duyar: &lt;b>%s&lt;/b>.</string>
@@ -504,6 +506,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın."</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>

@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">Sessiz mod şimdi kapalı. Aramalar ve bildirimler sessize alınmayacak.</string>
     <string name="kddi_miui_toast_zen_to_standard">Sessiz moda geçildi. Aramalar ve bildirimler şimdi sessize alınacak.</string>
     <string name="loading">Bilinmeyen durum</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">Gece</string>
     <string name="miplay_accessibility_cast">Cihaz seçin</string>
     <string name="miplay_accessibility_cover">Kapak</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi earbuds kullanıcıları: şarj kutusunu açın veya kutunun üzerindeki tuşa %dsn. basılı tutun
 Xiaomi earbuds kullanmayan kullanıcılar: Bluetooth ayarlarında kulaklıklarınızı sıfırlayın, ardından bağlanın"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Sesi paylaşmak için kulaklık ekleyin</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Ses paylaşımı bitti</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Sesi paylaşmak için kulaklık ekleyin</string>
     <string name="miplay_bluetooth_share_subTitle_text">Cihaz sesini bir başkasıyla paylaşın</string>
     <string name="miplay_bluetooth_share_title_text">Sesi paylaş</string>
     <string name="miplay_detail_divider_title">Hoparlörler</string>

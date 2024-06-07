@@ -10,6 +10,7 @@
     <string name="download_queued">Sıraya alındı</string>
     <string name="download_remaining">%s kaldı</string>
     <string name="download_running">İndiriliyor</string>
+    <string name="download_running_percent">İndiriliyor %s</string>
     <string name="download_unknown_title">&lt;Başlıksız></string>
     <string name="notif_title_file_size">Toplam %1$d</string>
     <string name="notif_title_single_downloading">İndiriliyor: %1$s</string>

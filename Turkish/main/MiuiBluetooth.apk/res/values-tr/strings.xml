@@ -88,6 +88,7 @@ Ayrıntıları Ayarlar menüsünde kontrol edebilirsiniz."</string>
     <string name="fast_connect_device_battery">Pil</string>
     <string name="fast_connect_device_box">Kutu</string>
     <string name="fast_connect_device_box_name">%1$s Kutu</string>
+    <string name="fast_connect_device_button_audio_share_fail">Anladım</string>
     <string name="fast_connect_device_connect_cancel">İptal</string>
     <string name="fast_connect_device_connect_ok">Bağlan</string>
     <string name="fast_connect_device_connect_retry">Tekrar dene</string>
@@ -96,6 +97,12 @@ Ayrıntıları Ayarlar menüsünde kontrol edebilirsiniz."</string>
     <string name="fast_connect_device_headset_l">Sol</string>
     <string name="fast_connect_device_headset_r">Sağ</string>
     <string name="fast_connect_device_headset_reset">Kutunun üzerindeki tuşa basın ve basılı tutun</string>
+    <string name="fast_connect_device_message_audio_share">Bu cihazın sesini bu kulaklık çifti ile paylaş</string>
+    <string name="fast_connect_device_replace_current_device">Cihazı değiştir</string>
+    <string name="fast_connect_device_start_audio_share">Paylaş</string>
+    <string name="fast_connect_device_title_audio_share">%1$s ile birlikte dinle</string>
+    <string name="fast_connect_device_title_audio_share_fail">%1$s bağlanılamadı. Tekrar deneyin.</string>
+    <string name="fast_connect_device_title_audio_share_success">%1$s ile birlikte dinleniyor</string>
     <string name="fast_connect_device_title_connect_fail">%1$s bağlanamadı</string>
     <string name="fast_connect_device_title_connecting">Bağlanılıyor…</string>
     <string name="fast_connect_device_title_find_headset">%1$s bul</string>

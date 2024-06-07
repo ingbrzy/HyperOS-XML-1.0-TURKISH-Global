@@ -396,6 +396,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -553,6 +554,7 @@ olacağına inanın"</string>
     <string name="somatosensory_temperature_format">Hissedilen %s°</string>
     <string name="standard_clock_panel">Standart</string>
     <string name="standard_style">Standart</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Adım sayar Xiaomi Sağlık tarafından sağlanmaktadır. Devam etmek için Xiaomi Sağlık şartları ve koşullarını kabul edin.</string>
     <string name="step_component_info_desc">Hedefinize ulaştığınızda adım sayar bir kupaya dönüşecektir. Adım sayar, Xiaomi Sağlık tarafından sağlanmaktadır.</string>
     <string name="step_component_info_tip">"Adım sayar Xiaomi Sağlık tarafından sağlanmaktadır. Devam etmek için Xiaomi Sağlık'ı yükleyin veya güncelleyin ve şartlar ve koşulları kabul edin."</string>

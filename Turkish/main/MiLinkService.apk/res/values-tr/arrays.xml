@@ -22,13 +22,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Uygulama handoff</item>
-        <item>Ara bağlantı/Uygulama handoff</item>
+        <item>Ara bağlantı/Uygulamalar</item>
         <item>Uygulamaları aktar, handoff, aktar</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Aramalar</item>
-        <item>Ara bağlantı/Aramalar</item>
-        <item>Aramalar</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Ağ asistanı</item>

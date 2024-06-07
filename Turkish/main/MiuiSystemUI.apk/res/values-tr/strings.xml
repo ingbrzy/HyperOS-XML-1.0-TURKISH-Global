@@ -1223,6 +1223,7 @@ Daha fazla bilgi için BT yöneticinize başvurun."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Kişisel uygulamalarınız internete %1$s üzerinden bağlı. E-postalar ve tarama verileri dahil olmak üzere ağ etkinliğiniz, VPN sağlayıcınıza görünür.</string>
     <string name="monitoring_description_two_named_vpns">Bu cihaz internete %1$s ve %2$s üzerinden bağlı. E-postalar ve tarama verileri dahil olmak üzere ağ etkinliğiniz, BT yöneticinize görünür.</string>
     <string name="monitoring_description_vpn_settings">VPN ayarlarını aç</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s; bu cihazla ilişkilendirilmiş verilere erişebilir, uygulamaları yönetebilir ve bu cihazın ayarlarını değiştirebilir.
 
 Sorularınız varsa %2$s ile iletişime geçin."</string>
@@ -1422,6 +1423,8 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>&lt;font color=#a5220e>\"Sil &amp;amp; Sıfırla\"&lt;/font> seçeneğini seçin ve cihaz yeniden başlatılana kadar bekleyin.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Nasıl veri silinir?</string>
     <string name="phone_locked_string">Bu cihaz kilitli</string>
+    <string name="pin_toast">Ekranın altından yukarı kaydırın ve bu uygulamanın sabitlemesini kaldırmak için duraklatın</string>
+    <string name="pin_toast_nav">Bu uygulamanın sabitlemesini kaldırmak için geri ve önizleme tuşlarına basılı tutun</string>
     <string name="pip_close">Kapat</string>
     <string name="pip_collapse">Daralt</string>
     <string name="pip_edu_text">Kontroller için <annotation icon="home_icon">ANA EKRAN</annotation> düğmesine iki kez basın</string>
@@ -1823,6 +1826,8 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="status_bar_clock_date_format_12">d MMM, E</string>
     <string name="status_bar_clock_date_time_format">d MMM, E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">d MMM, E h:mm a</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Ekranı otomatik döndür</string>
     <string name="status_bar_work">İş profili</string>

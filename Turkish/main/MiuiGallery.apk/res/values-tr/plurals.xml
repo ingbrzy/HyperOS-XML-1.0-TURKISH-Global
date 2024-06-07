@@ -64,6 +64,50 @@
         <item quantity="other">%d yıl</item>
         <item quantity="one">%d yıl</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d kişi önünüzde</item>
+        <item quantity="one">%1d kişi önünüzde</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Bekleme süresi: %s sa.</item>
+        <item quantity="one">Bekleme süresi: %s sa.</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Bekleme süresi: %s dk.</item>
+        <item quantity="one">Bekleme süresi: %s dk.</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Oluşturuluyor… | Bekleme süresi: %d sn.</item>
+        <item quantity="one">Oluşturuluyor… | Bekleme süresi: %d sn.</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Oluşturuluyor… | %d kişi önünüzde</item>
+        <item quantity="one">Oluşturuluyor… | %d kişi önünüzde</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Bekleme süresi: %d dk.</item>
+        <item quantity="one">Bekleme süresi: %d dk.</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Oluşturuluyor… | %d sn. kaldı</item>
+        <item quantity="one">Oluşturuluyor… | %d sn. kaldı</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s sa.</item>
+        <item quantity="one">%s sa.</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Bir kişi en fazla %d AI görüntüsü oluşturabilir.</item>
+        <item quantity="one">Bir kişi en fazla %d AI görüntüsü oluşturabilir.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Fotoğraflar seçiliyor (%d sn. kaldı)…</item>
+        <item quantity="one">Fotoğraflar seçiliyor (%d sn. kaldı)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">%d kişi ile paylaşıldı</item>
         <item quantity="one">%d kişi ile paylaşıldı</item>
@@ -224,9 +268,21 @@
         <item quantity="other">Görüntülenemeyen %1$d fotoğraf atlandı.</item>
         <item quantity="one">Görüntülenemeyen %1$d fotoğraf atlandı.</item>
     </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d dosya</item>
-        <item quantity="one">%1$d dosya</item>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">Yetersiz cloud depolama alanından dolayı %d öge yedeklenemedi</item>
+        <item quantity="one">Yetersiz cloud depolama alanından dolayı %d öge yedeklenemedi</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d öge yedeklenmedi</item>
+        <item quantity="one">%d öge yedeklenmedi</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">%d öge mobil veri kullanılarak yedekleniyor…</item>
+        <item quantity="one">%d öge mobil veri kullanılarak yedekleniyor…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">%d öge yedekleniyor…</item>
+        <item quantity="one">%d öge yedekleniyor…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -345,8 +401,8 @@
         <item quantity="one">%d kalan dosya indiriliyor</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d fotoğraf indirilemedi, ağa bağlanın ve tekrar deneyin</item>
-        <item quantity="one">%1$d fotoğraf indirilemedi, ağa bağlanın ve tekrar deneyin</item>
+        <item quantity="other">%d dosya indirilemedi. Ağa bağlanın ve tekrar deneyin.</item>
+        <item quantity="one">%d dosya indirilemedi. Ağa bağlanın ve tekrar deneyin.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">%1$d dosya (%2$d MB) indirilemedi. Ağa bağlanın ve tekrar deneyin.</item>
@@ -357,12 +413,12 @@
         <item quantity="one">%1$d dosya (%2$d MB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d fotoğraf indirilemedi, tekrar denensin mi?</item>
-        <item quantity="one">%1$d fotoğraf indirilemedi, tekrar denensin mi?</item>
+        <item quantity="other">%d dosya indirilemedi. Tekrar denensin mi?</item>
+        <item quantity="one">%d dosya indirilemedi. Tekrar denensin mi?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotoğraf indirilemedi (%2$d MB), tekrar denensin mi?</item>
-        <item quantity="one">%1$d fotoğraf indirilemedi (%2$d MB), tekrar denensin mi?</item>
+        <item quantity="other">%1$d dosya indirilemedi (%2$d MB). Tekrar denensin mi?</item>
+        <item quantity="one">%1$d dosya indirilemedi (%2$d MB). Tekrar denensin mi?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Cihazda olmayan %d fotoğraf atlandı.</item>
@@ -396,77 +452,9 @@
         <item quantity="other">\"%2$s\" konumundan %1$d fotoğraf kaldırıldı.</item>
         <item quantity="one">\"%2$s\" konumundan %1$d fotoğraf kaldırıldı.</item>
     </plurals>
-    <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d kurulum paketi (%3$s)</item>
-        <item quantity="one">%1$s kişisinden %2$d kurulum paketi (%3$s)</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d kurulum paketi (%3$s) alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d kurulum paketi (%3$s) alındı</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d kurulum paketi (%3$s) alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d kurulum paketi (%3$s) alınıyor…</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d ses dosyası (%3$s)</item>
-        <item quantity="one">%1$s kişisinden %2$d ses dosyası (%3$s)</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d ses dosyası (%3$s) alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d ses dosyası (%3$s) alındı</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d ses dosyası (%3$s) alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d ses dosyası (%3$s) alınıyor…</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d %3$s dosya (%4$s)</item>
-        <item quantity="one">%1$s kişisinden %2$d %3$s dosya (%4$s)</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d %3$s dosya (%4$s) alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d %3$s dosya (%4$s) alındı</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d %3$s dosya (%4$s) alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d %3$s dosya (%4$s) alınıyor…</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d görüntü</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d görüntü alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü alındı</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d görüntü alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü alınıyor…</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d görüntü ve video</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü veya video</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d görüntü ve video alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü veya video alındı</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d görüntü ve video alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d görüntü veya video alınıyor…</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d dosya</item>
-        <item quantity="one">%1$s kişisinden %2$d dosya</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d dosya alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d dosya alındı</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d dosya alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d dosya alınıyor…</item>
+    <plurals name="search_title_ai">
+        <item quantity="other">%d öge bulundu</item>
+        <item quantity="one">%d öge bulundu</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">Paylaşılamadı. %d fotoğraf halen işleniyor…</item>
@@ -475,30 +463,6 @@
     <plurals name="send_too_many_files_error">
         <item quantity="other">Göndermek için en fazla %d öge seçin</item>
         <item quantity="one">Göndermek için en fazla %d öge seçin</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d video</item>
-        <item quantity="one">%1$s kişisinden %2$d video</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d video alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d video alındı</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d video alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d video alınıyor…</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%1$s kişisinden %2$d arşiv (%3$s)</item>
-        <item quantity="one">%1$s kişisinden %2$d arşiv (%3$s)</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">%1$s kişisinden %2$d arşiv (%3$s) alındı</item>
-        <item quantity="one">%1$s kişisinden %2$d arşiv (%3$s) alındı</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">%1$s kişisinden %2$d arşiv (%3$s) alınıyor…</item>
-        <item quantity="one">%1$s kişisinden %2$d arşiv (%3$s) alınıyor…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
         <item quantity="other">%d fotoğraf yüklendi</item>
@@ -671,6 +635,18 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d dosya</item>
         <item quantity="one">%1$d dosya</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">%d video bölümü seçin</item>
+        <item quantity="one">%d video bölümü seçin</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">%1$d. video yuvası, %2$s veya daha fazla saniyelik video eklenmesi bekleniyor</item>
+        <item quantity="one">%1$d. video yuvası, %2$s veya daha fazla saniyelik video eklenmesi bekleniyor</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Devam edebilmek için %d video daha ekleyin</item>
+        <item quantity="one">Devam edebilmek için %d video daha ekleyin</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d video</item>

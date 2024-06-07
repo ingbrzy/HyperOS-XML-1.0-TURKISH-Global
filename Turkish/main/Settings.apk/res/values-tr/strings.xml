@@ -1815,6 +1815,7 @@ Bağlantı süresince %3$s numarasına gelen tüm aramaları %2$s adlı cihaz al
 Yukarıdakilerin herhangi birini yaptıysanız, Mi Hesabınızı tekrar ekleyin; aksi taktirde cihazınızın kilidini açamazsınız."</string>
     <string name="bootloader_tips_ok">Anladım</string>
     <string name="bootloader_tips_warning">Ağ bağlantınızı kesmeyin, Mi Hesabınızın oturumunu kapatmayın, fabrika ayarlarına geri döndürmeyin veya sistem verilerini silmeyin.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Ek tuşların işlevleri</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="breathing_light_color_menu_title">Işık rengi</string>
@@ -2908,6 +2909,7 @@ Bu ayar, bu cihazın tüm kullanıcılarını etkiler."</string>
     <string name="dialog_wifi_context">Cihazınızı kurmak için internete bağlanmanız gerekir. Wi-Fi ağına bağlanmadığınız sürece mobil veri kullanılabilir. Mobil veri kullanımı ek ücretlendirmeler oluşturabilir. Yine de mobil veri kullanılsın mı?</string>
     <string name="dialog_wifi_title">Mobil veri kullanımı</string>
     <string name="dialog_yes">Evet</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Not: Cihazınızı yeniden başlattıktan sonra bu uygulama cihazınızın kilidini açana kadar başlatılamaz.</string>
     <string name="disable_overlays">Donanım katmanlarını devre dışı bırak</string>
     <string name="disable_overlays_summary">"Ekran oluştururken her zaman GPU'yu kullan"</string>
@@ -2963,6 +2965,9 @@ Bu ayar, bu cihazın tüm kullanıcılarını etkiler."</string>
     <string name="display_cutout_emulation">Ekran kesimi</string>
     <string name="display_cutout_emulation_keywords">ekran kesimi, çentik</string>
     <string name="display_dashboard_summary">Koyu tema, yazı tipi boyutu, parlaklık</string>
+    <string name="display_notification_icon_0">Yok</string>
+    <string name="display_notification_icon_1">%d simge</string>
+    <string name="display_notification_icon_3">%d simge</string>
     <string name="display_prompt_confirm">Anladım</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran &amp; parlaklık</string>
@@ -2993,6 +2998,7 @@ Bu ayar, bu cihazın tüm kullanıcılarını etkiler."</string>
     <string name="dndm_auto_button_title">Tekrarlanan rahatsız etme modu zamanı</string>
     <string name="dndm_auto_setting_group">Planlı</string>
     <string name="dndm_auto_time_setting">Zamanı ayarla</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Bitiş</string>
     <string name="dndm_auto_time_turn_off_title">Rahatsız etme modunu otomatik olarak kapat</string>
     <string name="dndm_auto_time_turn_on">Başlangıç</string>
@@ -4690,6 +4696,7 @@ Xiaomi Cloud'u açın ve ögeleri oradan geri yükleyin."</string>
     <string name="lights_title">LED ışık</string>
     <string name="line_breaking_summary">Paragraf satır atlamalarını optimize et</string>
     <string name="line_breaking_title">Metin iyileştirme</string>
+    <string name="link_speed">%1$d Mb/sn.</string>
     <string name="link_turbo_prompt">Bu sayfadaki istatistikler yalnızca Wi-Fi bağlantı hızını artırmak için kullanılan veri miktarını gösterir. Bu istatistikler, asıl mobil veri kullanımını yansıtmaz.</string>
     <string name="link_turbo_settings_all_app_display_loading">Yalnızca bir sn.…</string>
     <string name="link_turbo_settings_all_app_reach_max">15 uygulamaya kadar seçebilirsiniz</string>
@@ -5297,6 +5304,7 @@ Bu işlemi geri alamazsınız."</string>
     <string name="memory_usage">Bellek kullanımı</string>
     <string name="memory_usage_apps">Uygulamalar tarafından kullanılan bellek</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 uygulama son {time} içinde belleği kullandı}other{# uygulama son {time} içinde belleği kullandı}}</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Son 3 saat içindeki %1$s ort. bellek kullanımı</string>
     <string name="memorycard_calculating">Hesaplanıyor…</string>
     <string name="memtag_footer">Gelişmiş bellek korumasını açmak veya kapatmak için cihazınızı yeniden başlatmanız gerekir. Bu özellik açık olduğunda cihaz performansında yavaşlama görebilirsiniz.</string>
@@ -6053,6 +6061,7 @@ Ek ayarlara erişmek için devam edin."</string>
     <string name="nfc_more_details">Daha fazla bilgi</string>
     <string name="nfc_more_title">Diğer…</string>
     <string name="nfc_notification_mode_title">NFC kart okuma hatırlatıcıları</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Varsayılan olarak ayarla</string>
     <string name="nfc_payment_btn_text_update">Güncelle</string>
     <string name="nfc_payment_default">Ödeme varsayılanı</string>
@@ -6648,6 +6657,7 @@ Bu hizmeti kullanmadan önce %s sözleşmesini okuyun ve kabul edin."</string>
     <string name="power_cell">Mobil ağ</string>
     <string name="power_center">Pil optimizasyonu</string>
     <string name="power_charge_remaining">Şarj olmasına %1$s var</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - Tamamen şarj olmasına %2$s kaldı</string>
     <string name="power_charging_future_paused">%1$s - Şarj optimize edildi</string>
     <string name="power_charging_limited">%1$s - Şarj optimize edildi</string>
@@ -6704,6 +6714,7 @@ Güç ve sesi artırma düğmelerine aynı anda basın."</string>
     <string name="power_remaining_less_than_duration_only">En çok %1$s kaldı</string>
     <string name="power_remaining_more_than_subtext">En az %1$s kaldı (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">En az %1$s kaldı</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Ekran</string>
     <string name="power_settings_title">Sistem performansı</string>
     <string name="power_suggestion_battery_run_out">Pilin tahmini bitiş zamanı: %1$s</string>
@@ -6954,6 +6965,7 @@ Güç ve sesi artırma düğmelerine aynı anda basın."</string>
     <string name="privileged_action_disable_sub_dialog_title">%1$s devre dışı bırakılsın mı?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">SIM kapatılsın mı?</string>
     <string name="process_dex2oat_label">Optimizasyon ekle</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Medya sunucusu</string>
     <string name="process_network_tethering">Tethering</string>
     <string name="process_provider_in_use_description">Sağlayıcı %1$s kullanımda.</string>
@@ -7412,19 +7424,14 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Okuma modunu kullanan uygulamaların listesini otomatik olarak güncelle</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Otomatik güncelle</string>
     <string name="screen_paper_texture">Doku</string>
-    <string name="screen_pinning_description">"Bir uygulama sabitlendiğinde diğer uygulamaları açabilir ve kişisel verilere erişilebilir. 
+    <string name="screen_pinning_description">Sabitlenen uygulamalar diğer uygulamaları açabilir ve kişisel bilgilerinize erişebilir</string>
+    <string name="screen_pinning_dialog_message">"İşte sabitlenen uygulamaların yapabilecekleri:
 
-Uygulama sabitlemeyi kullanmak için: \u0009
-1. Uygulama sabitlemeyi açın \u0009
-2. Genel Bakış'ı açın \u0009
-3. Ekranın üst tarafındaki uygulama simgesine dokunup ardından Sabitle'ye dokunun"</string>
-    <string name="screen_pinning_dialog_message">"Uygulama sabitlendiğinde: 
+• Kişisel bişgilerinize erişmek
+ (ör. kişiler ve e-postalar)
+• Diğer uygulamaları açmak
 
-•\u0009 Kişisel verilere erişilebilir 
-\u0009\u0009(ör. kişiler ve e-posta içerikleri) 
-•\u0009\u0009Sabitlenen uygulama diğer uygulamaları açabilir 
-
-Uygulama sabitlemeyi yalnızca güvendiğiniz kişilerle kullanın."</string>
+Bu cihazı başkalarıyla paylaşırken bu özelliği dikkatli kullanın."</string>
     <string name="screen_pinning_guest_user_description">"Bir uygulama sabitlendiğinde diğer uygulamaları açabilir ve kişisel verilere erişilebilir. 
 
 Cihazınızı güvenli bir şekilde başka biriyle paylaşmak isterseniz bunun yerine misafir kullanıcı özelliğini kullanın. 
@@ -7433,10 +7440,11 @@ Uygulama sabitlemeyi kullanmak için: \u0009
 1. Uygulama sabitlemeyi açın \u0009
 2. Genel Bakış'ı açın \u0009
 3. Ekranın üst tarafındaki uygulama simgesine dokunup ardından Sabitle'ye dokunun"</string>
+    <string name="screen_pinning_summary">Sabitlenen uygulamalar siz sabitlemelerini kaldırana kadar Son kullanılanlar bölümünde kalacak</string>
     <string name="screen_pinning_switch_off_text">Kapalı</string>
     <string name="screen_pinning_switch_on_text">Açık</string>
-    <string name="screen_pinning_title">Uygulama sabitleme</string>
-    <string name="screen_pinning_unlock_none">Sabitlemeyi kaldırırken cihazı kilitle</string>
+    <string name="screen_pinning_title">Uygulamaların sabitlenmesine izin ver</string>
+    <string name="screen_pinning_unlock_none">Sabitlemeyi kaldırmak için ekran kilidini doğrulayın</string>
     <string name="screen_pinning_unlock_password">Sabitlemeyi kaldırmadan önce şifre sor</string>
     <string name="screen_pinning_unlock_pattern">Sabitlemeyi kaldırmadan önce kilit açma desenini sor</string>
     <string name="screen_pinning_unlock_pin">"Sabitlemeyi kaldırmadan önce PIN'i sor"</string>
@@ -7748,6 +7756,7 @@ seçenekleri;Yardım;Geliştirici;Geliştiriciler;Geliştirme;Gelişim;Sorun gid
     <string name="security_encryption_attention_3">Yeni bir ekran kilidi oluşturmanız gerekecektir.</string>
     <string name="security_encryption_attention_4">Ekran kilidinizi hatırlıyor olduğunuzdan emin olun, aksi takdirde cihazınızı tamamen sıfırlamak ve cihazınızdaki verilerin tamamını silmek zorunda kalırsınız.</string>
     <string name="security_encryption_attention_info">Hesaplarınızı, ayarlarınızı, indirilen uygulamalarınızı ve uygulama verilerini, medya ve diğer dosyaları şifreleyebilirsiniz.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Önemli</string>
     <string name="security_encryption_close_dialog_info">Ekran kilidi kullanarak cihazı şifrelemeyi seçmemek bazı Google hizmetlerinin kullanılamamasına neden olabilir.</string>
     <string name="security_encryption_close_dialog_title">Varsayılan sistem şifrelemesine geri gidin</string>
@@ -8342,6 +8351,7 @@ Son kullanılanları açmak için çift dokunun."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Yine de atla</string>
     <string name="skip_label">Atla</string>
@@ -8559,8 +8569,10 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="status_bar_app_enable_keyguard">Kilit ekranı</string>
     <string name="status_bar_app_enable_message">Rozetler</string>
     <string name="status_bar_carrier_settings_no_sim_card">SIM kart yok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Bildirimler &amp; durum çubuğu</string>
     <string name="status_bar_settings_all_app_display_loading">Yalnızca bir sn.…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Uygulama bildirimleri</string>
     <string name="status_bar_settings_notification_bar">Bildirim çubuğu</string>
     <string name="status_bar_settings_status_bar">Durum çubuğu</string>
@@ -8882,6 +8894,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">"Kontrol merkezi'nde yakındaki TV'ler, hoparlörler ve arabalar için kontrolleri göster"</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_first_day_of_week">Pazar</string>
     <string name="sunday_short">Paz</string>
@@ -9165,6 +9178,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="title_quick_control_all_devices">Yakındaki cihazlar için kontrolleri göster</string>
     <string name="title_regional_pref_footer">Bölgesel tercihleri desteklemeyen uygulamalar kendi varsayılan yerel ayarlarını kullanır.</string>
     <string name="title_show_notification_icon">Bildirim simgelerini göster</string>
+    <string name="title_show_notification_icon_count">Gösterilen bildirim simgelerinin sayısı</string>
     <string name="title_smart_device_control">Akıllı cihaz kontrolleri</string>
     <string name="title_special_features_health_global">Nabız</string>
     <string name="title_unavailable_locale">%s kullanılamıyor</string>
@@ -9798,6 +9812,7 @@ Kelime eklemek için artı simgesine dokunun."</string>
     <string name="vision_settings_title">Görüş Ayarları</string>
     <string name="voice_access">Sesli kontroller</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Konuşma</string>
     <string name="voice_helper_title">Sesli yardımcı</string>
     <string name="voice_input_output_settings">Ses girişi/çıkışı</string>
@@ -10963,9 +10978,11 @@ Rahatsız Etmeyin özelliğini devre dışı bıraktığınızda, parmağınız�
     <string name="zone_auto_summaryOff">Operatör ağı tarafından sağlanan zamanı kullan</string>
     <string name="zone_auto_summaryOn">Operatör ağı tarafından sağlanan zamanı kullan</string>
     <string name="zone_auto_title">Saat dilimini otomatik olarak ayarla</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">%1$s kullanılır. %2$s</string>
     <string name="zone_info_footer_no_dst">%1$s saat dilimini kullanır. Yaz saati uygulaması yoktur.</string>
     <string name="zone_info_footer_second_sentence">%1$s, %2$s tarihinde başlıyor</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Alfabetik olarak sırala</string>
     <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
     <string name="zone_menu_by_offset">UTC farkına göre seç</string>

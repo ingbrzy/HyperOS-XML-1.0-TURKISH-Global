@@ -253,7 +253,9 @@
     <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatif</string>
     <string name="exo_track_role_closed_captions">Altyazı</string>
     <string name="exo_track_role_commentary">Anlatım</string>
@@ -391,12 +393,14 @@
     <string name="iap_retain_message">Bu ödemeyi şimdi iptal et?</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="icon_size">Simge boyutu</string>
+    <string name="icon_style">Simgeler</string>
     <string name="in_the_end">Görüntülenecek öge yok</string>
     <string name="incompatible_dialog_cancel">Uygulama</string>
     <string name="incompatible_dialog_message">Bu tema cihazınızın sistem sürümü ile uyumlu değil. Bu temayı uygularsanız bazı sistem özellikleri düzgün çalışmayabilir.</string>
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmlar</string>
     <string name="item_resource_audio_optional_color_ring">Zil sesi tonu</string>
     <string name="item_resource_audio_optional_notification_ring">Bildirimler</string>
@@ -489,6 +493,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Tüm seçimleri kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -566,6 +571,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -630,6 +636,9 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Tekrar gösterme</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="notifications_permission_confirm">İzin ver</string>
+    <string name="notifications_permission_decline">İzin verme</string>
+    <string name="notifications_permission_title">Uygulamanın size bildirim göndermesine izin verilsin mi?</string>
     <string name="notify_style">Bildirim efektleri</string>
     <string name="offline_notification_text">Reklamı açmak için dokunun</string>
     <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
@@ -834,6 +843,7 @@ mm"</string>
     <string name="resource_pack_price_info">Liste fiyatı: %1$s</string>
     <string name="resource_pack_warning">Bu temanın %1$d bileşen(ler)ini satın aldınız. Kalan bileşenleri teker teker satın almak sizin için daha ucuza gelecektir.</string>
     <string name="resource_present">Hediye</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ücretsiz</string>
     <string name="resource_price_unit"> Mi Kredisi</string>
     <string name="resource_purchase_common_error">Bir hata oluştu, yeniden deneyin</string>
@@ -971,6 +981,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Hissedilen %s°</string>
     <string name="special_topic">Kategoriler</string>
     <string name="start_all">Tümünü devam ettir</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Uygula</string>
     <string name="storage_file">İndirilen ögeleri kaydetmek için</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1103,6 +1114,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">SD karta kaydet</string>
     <string name="theme_is_external_priority_storage_summary">Temalar uygulaması değişikliklerin uygulanabilmesi için yeniden başlatılacaktır.</string>
     <string name="theme_multiple_button_title_customize">Kişiselleştir</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Hayır</string>
     <string name="theme_on_the_phone_alert">Arama sırasında oynatılamıyor</string>
     <string name="theme_recommend">Benzer temalar</string>
